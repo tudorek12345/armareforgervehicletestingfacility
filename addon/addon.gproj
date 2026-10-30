@@ -1,0 +1,8 @@
+GameProject {
+ ID "ReforgerVehiclePlayground"
+ GUID "6ABC0DB9EF3BFB81"
+ TITLE "REFORGER VEHICLE PLAYGROUND"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}

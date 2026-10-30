@@ -1,0 +1,4715 @@
+[
+  {
+    "id": "5614BBCCBB55ED1C",
+    "name": "Enfusion core data",
+    "project_id": "core",
+    "dependencies": [],
+    "version": "",
+    "declared_game_version": "",
+    "corrupted": null,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [],
+    "missing_dependencies": []
+  },
+  {
+    "id": "58D0FB3206B6F859",
+    "name": "Arma Reforger",
+    "project_id": "ArmaReforger",
+    "dependencies": [
+      "5614BBCCBB55ED1C"
+    ],
+    "version": "",
+    "declared_game_version": "",
+    "corrupted": null,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "672B0395726428B6",
+    "name": "506thIRRUEnhancedRadio",
+    "project_id": "506thIRRUEnhancedRadio",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.38",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "65AD7C139EB4C1A1",
+    "name": "ACE Backblast Dev",
+    "project_id": "ACE_Backblast_Dev",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "65AD7D0D9941A380"
+    ],
+    "version": "1.5.36",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "65AD7D0D9941A380"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "646D52AF8BB3FF15",
+    "name": "ACE Captives",
+    "project_id": "ACE_Captives",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "60C4CE4888FF4621"
+    ],
+    "version": "1.4.3",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "60C4CE4888FF4621"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "65AD7C249E4ECDFB",
+    "name": "ACE Captives Dev",
+    "project_id": "ACE_Captives_Dev",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "65AD7D0D9941A380"
+    ],
+    "version": "1.5.36",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "65AD7D0D9941A380"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "65AD7C379CBD394D",
+    "name": "ACE Carrying Dev",
+    "project_id": "ACE_Carrying_Dev",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "65AD7D0D9941A380"
+    ],
+    "version": "1.5.36",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "65AD7D0D9941A380"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "5EB744C5F42E0800",
+    "name": "ACE Chopping",
+    "project_id": "ACE_Chopping",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "60C4CE4888FF4621"
+    ],
+    "version": "1.4.3",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "60C4CE4888FF4621"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "65AD7BCC9F6B3B4E",
+    "name": "ACE Chopping Dev",
+    "project_id": "ACE_Chopping_Dev",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "65AD7D0D9941A380"
+    ],
+    "version": "1.5.36",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "65AD7D0D9941A380"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "60C53A9372ED3964",
+    "name": "ACE Compass",
+    "project_id": "ACE_Compass",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "60C4CE4888FF4621"
+    ],
+    "version": "1.4.3",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "60C4CE4888FF4621"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "65AD7CF69FAF1FDD",
+    "name": "ACE Compass Dev",
+    "project_id": "ACE_Compass_Dev",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "65AD7D0D9941A380"
+    ],
+    "version": "1.5.36",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "65AD7D0D9941A380"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "664AFDC993C9CE1A",
+    "name": "ACE Cook-Off Dev",
+    "project_id": "ACE_CookOff_Dev",
+    "dependencies": [
+      "65AD7D0D9941A380",
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.5.36",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "65AD7D0D9941A380"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "60C4CE4888FF4621",
+    "name": "ACE Core",
+    "project_id": "ACE_Core",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.4.4",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "65AD7D0D9941A380",
+    "name": "ACE Core Dev",
+    "project_id": "ACE_Core_Dev",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.5.39",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "65AD7D1E9EEAFA53",
+    "name": "ACE Explosives Dev",
+    "project_id": "ACE_Explosives_Dev",
+    "dependencies": [
+      "65AD7D0D9941A380",
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.5.36",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "65AD7D0D9941A380"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "68EAA4B96976D557",
+    "name": "ACE Facepaint Dev",
+    "project_id": "ACE_Facepaint_Dev",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "65AD7D0D9941A380"
+    ],
+    "version": "1.5.36",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "65AD7D0D9941A380"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "606C369BAC3F6CC3",
+    "name": "ACE Finger",
+    "project_id": "ACE_Finger",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "60C4CE4888FF4621"
+    ],
+    "version": "1.4.3",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "60C4CE4888FF4621"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "65AD7D2E9866FA6E",
+    "name": "ACE Finger Dev",
+    "project_id": "ACE_Finger_Dev",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "65AD7D0D9941A380"
+    ],
+    "version": "1.5.36",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "65AD7D0D9941A380"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "611CB1D409001EB0",
+    "name": "ACE Magazine Repack",
+    "project_id": "ACE_MagRepack",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.4.3",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "65AD7D4099944EBD",
+    "name": "ACE Magazine Repack Dev",
+    "project_id": "ACE_MagRepack_Dev",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.5.36",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "65AD7D4F994EA327",
+    "name": "ACE Medical Circulation Dev",
+    "project_id": "ACE_Medical_Circulation_Dev",
+    "dependencies": [
+      "6586079789278413",
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.5.36",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "6586079789278413",
+      "65AD7D0D9941A380"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6586079789278413",
+    "name": "ACE Medical Core Dev",
+    "project_id": "ACE_Medical_Core_Dev",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "65AD7D0D9941A380"
+    ],
+    "version": "1.5.36",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "65AD7D0D9941A380"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "65B343F799FB521B",
+    "name": "ACE Medical Hitzones Dev",
+    "project_id": "ACE_Medical_Hitzones_Dev",
+    "dependencies": [
+      "6586079789278413",
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.5.36",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "6586079789278413",
+      "65AD7D0D9941A380"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "65AD7C75826B46C6",
+    "name": "ACE Radio Dev",
+    "project_id": "ACE_Radio_Dev",
+    "dependencies": [
+      "65AD7D0D9941A380",
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.5.36",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "65AD7D0D9941A380"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "65AD7CB89F219E38",
+    "name": "ACE Tactical Ladder Dev",
+    "project_id": "ACE_TacticalLadder_Dev",
+    "dependencies": [
+      "65AD7D0D9941A380",
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.5.36",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "65AD7D0D9941A380"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "65AD7CD09CAEC4E2",
+    "name": "ACE Tactical Periscope Dev",
+    "project_id": "ACE_TacticalPeriscope_Dev",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "65AD7D0D9941A380"
+    ],
+    "version": "1.5.36",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "65AD7D0D9941A380"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "60EAEA0389DB3CC2",
+    "name": "ACE Trenches",
+    "project_id": "ACE_Trenches",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "60C4CE4888FF4621"
+    ],
+    "version": "1.4.3",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "60C4CE4888FF4621"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "65AD7CE59E8DB349",
+    "name": "ACE Trenches Dev",
+    "project_id": "ACE_Trenches_Dev",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "65AD7D0D9941A380"
+    ],
+    "version": "1.5.36",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "65AD7D0D9941A380"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "667B230F9505C8BA",
+    "name": "ACE Weather Dev",
+    "project_id": "ACE_Weather_Dev",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "65AD7D0D9941A380"
+    ],
+    "version": "1.5.36",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "65AD7D0D9941A380"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "5ED8BE1DDFEFBE4C",
+    "name": "BigMsgs",
+    "project_id": "BigMsgs",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.14",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "68DB04C16458D915",
+    "name": "ADSSway - CIE UAR-10",
+    "project_id": "ADSSwayCIEUAR10",
+    "dependencies": [
+      "6874D3BB57ADC921",
+      "648D682E7038491E",
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "645F08FA9E7CDEDE",
+      "648D682E7038491E",
+      "6608FD6F58F3B90A",
+      "6632F94B46173164",
+      "684608DD7C7E0DFB",
+      "6874D3BB57ADC921",
+      "687CD82F6E41D627"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "65735C5643CCC0A6",
+    "name": "ADSSway - OverallConf - LOW",
+    "project_id": "ADSSwayOverallConfLOW",
+    "dependencies": [
+      "648D682E7038491E",
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.5",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "648D682E7038491E",
+      "6608FD6F58F3B90A",
+      "6632F94B46173164",
+      "684608DD7C7E0DFB"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "648D682E7038491E",
+    "name": "ADSSway - Core",
+    "project_id": "ADSSway",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "6608FD6F58F3B90A",
+      "684608DD7C7E0DFB"
+    ],
+    "version": "0.3.42",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "6608FD6F58F3B90A",
+      "6632F94B46173164",
+      "684608DD7C7E0DFB"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6A073AA050D33C09",
+    "name": "ADSSway - Fortex RTW",
+    "project_id": "ADSSwayFortexRTW",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "648D682E7038491E",
+      "690AC3895BAAFAE1",
+      "68F92DCEEC950E1C"
+    ],
+    "version": "7.0.2",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "648D682E7038491E",
+      "6608FD6F58F3B90A",
+      "6632F94B46173164",
+      "684608DD7C7E0DFB",
+      "68F92DCEEC950E1C",
+      "690AC3895BAAFAE1"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "68DAEEDC74690D05",
+    "name": "ADSS - GROZA",
+    "project_id": "ADSSGROZA",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "648D682E7038491E",
+      "6642FAF66EF1A7D2"
+    ],
+    "version": "1.0.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "648D682E7038491E",
+      "6608FD6F58F3B90A",
+      "6632F94B46173164",
+      "6642FAF66EF1A7D2",
+      "684608DD7C7E0DFB"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "65731A29EFECF878",
+    "name": "ADSSway - M110 DMR",
+    "project_id": "ADSSwayM110DMR",
+    "dependencies": [
+      "5CA125536EE7430A",
+      "648D682E7038491E",
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.4",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "5AB301290317994A",
+      "5ABD0CB57F7E9EB1",
+      "5CA125536EE7430A",
+      "648D682E7038491E",
+      "6608FD6F58F3B90A",
+      "6632F94B46173164",
+      "684608DD7C7E0DFB"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "657321F104C50692",
+    "name": "ADSSway - M4 BLOCK II",
+    "project_id": "ADSSwayM4BLOCKII",
+    "dependencies": [
+      "5AB890B71D748750",
+      "648D682E7038491E",
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.1",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "5AB301290317994A",
+      "5AB890B71D748750",
+      "5ABD0CB57F7E9EB1",
+      "648D682E7038491E",
+      "6608FD6F58F3B90A",
+      "6632F94B46173164",
+      "684608DD7C7E0DFB"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "666087D35329AAFA",
+    "name": "ADSSway - Malyuk 7.62x39",
+    "project_id": "ADSSwayMalyuk762x39",
+    "dependencies": [
+      "621359270524E029",
+      "648D682E7038491E",
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "5ABD0CB57F7E9EB1",
+      "621359270524E029",
+      "648D682E7038491E",
+      "6608FD6F58F3B90A",
+      "6632F94B46173164",
+      "684608DD7C7E0DFB"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "659ECE86536848BF",
+    "name": "ADSSway - MG3 RIS",
+    "project_id": "ADSSwayMG3RIS",
+    "dependencies": [
+      "6497438B19727E0D",
+      "648D682E7038491E",
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.1",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "648D682E7038491E",
+      "6497438B19727E0D",
+      "6608FD6F58F3B90A",
+      "6632F94B46173164",
+      "684608DD7C7E0DFB"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6608FD6F58F3B90A",
+    "name": "ADSSway - PIP DOF -TEST",
+    "project_id": "ADSSwayPIPDOFTEST",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "6632F94B46173164"
+    ],
+    "version": "1.0.9",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "6632F94B46173164"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "659ECE5E40F4C195",
+    "name": "ADSSway - PKP-B",
+    "project_id": "ADSSwayPKPB",
+    "dependencies": [
+      "6447378A6C7CB747",
+      "648D682E7038491E",
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.1",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "6447378A6C7CB747",
+      "648D682E7038491E",
+      "6608FD6F58F3B90A",
+      "6632F94B46173164",
+      "684608DD7C7E0DFB"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "659ECE205DA1A576",
+    "name": "ADSSway - SVU-AS",
+    "project_id": "ADSSwaySVUAS",
+    "dependencies": [
+      "64E907AA6A6274D2",
+      "648D682E7038491E",
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.2",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "648D682E7038491E",
+      "64E907AA6A6274D2",
+      "6608FD6F58F3B90A",
+      "6632F94B46173164",
+      "684608DD7C7E0DFB"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "656CC5CAB49C7D0A",
+    "name": "ADSSway - WCS",
+    "project_id": "ADSSwayWCS",
+    "dependencies": [
+      "648D682E7038491E",
+      "615806DC6C57AF02",
+      "615818DA7C0343FD",
+      "58D0FB3206B6F859",
+      "65CF7AE8574E06D2"
+    ],
+    "version": "1.0.15",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "615806DC6C57AF02",
+      "615818DA7C0343FD",
+      "61C74A8B647617DA",
+      "62A668F513428630",
+      "631C3C1AEE9C90BC",
+      "648D682E7038491E",
+      "65CF7AE8574E06D2",
+      "6608FD6F58F3B90A",
+      "6632F94B46173164",
+      "684608DD7C7E0DFB",
+      "68F006D910E7546F"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "684608DD7C7E0DFB",
+    "name": "Aiming Deadzone",
+    "project_id": "AimingDeadzone",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.21",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "62CCD69DD17E4F2F",
+    "name": "AKI_Core",
+    "project_id": "AKI_Core",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "629B2BA37EFFD577"
+    ],
+    "version": "8.1.1",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "629B2BA37EFFD577"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "662EB83AB3F8CAE3",
+    "name": "AKI_Core_Upgrade",
+    "project_id": "AKI_Core_Upgrade",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "62CCD69DD17E4F2F",
+      "595F2BF2F44836FB"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "1337C0DE5DABBEEF",
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "595F2BF2F44836FB",
+      "629B2BA37EFFD577",
+      "62CCD69DD17E4F2F",
+      "BADC0DEDABBEDA5E"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6A4545CCB3516E86",
+    "name": "ATGM",
+    "project_id": "ATGM",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "68F8A813D7EF1E30"
+    ],
+    "version": "1.0.1",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "68F8A813D7EF1E30"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "687CD82F6E41D627",
+    "name": "AFW-Core",
+    "project_id": "AFWCore",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.16",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "645F08FA9E7CDEDE",
+    "name": "Attachment Framework",
+    "project_id": "AttachmentFramework",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "687CD82F6E41D627"
+    ],
+    "version": "1.0.42",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "687CD82F6E41D627"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "606B100247F5C709",
+    "name": "Bacon Loadout Editor",
+    "project_id": "BaconLoadoutEditor",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.7.3",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "5AB301290317994A",
+    "name": "Suppressors",
+    "project_id": "Suppressors",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.2.7",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "629EDC37CDE3AD35",
+    "name": "Belleau Wood",
+    "project_id": "BelleauWood",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "5F0D245931200FD1",
+      "5DE612963E4B005A"
+    ],
+    "version": "2.3.39",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "5DE612963E4B005A",
+      "5F0D245931200FD1"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "699641930AA6A15C",
+    "name": "Better Clouds",
+    "project_id": "BetterClouds",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.1.18",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "5C9758250C8C56F1",
+    "name": "Bon Action Animations",
+    "project_id": "BonActionAnimations",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.3",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "68AB562502EB08A3",
+    "name": "CHAMPS_BEARDS",
+    "project_id": "CHAMPSBEARDS",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "5D0551624969C92E"
+    ],
+    "version": "1.0.6",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "5D0551624969C92E"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6487690835A62CE0",
+    "name": "Change Players Faction",
+    "project_id": "ChangePlayersFaction",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.6",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "691C32E7EA4AC587",
+    "name": "CIE_AdminTools",
+    "project_id": "CIEAdminTools",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "5AAAC70D754245DD",
+      "69192512C5D6BD59"
+    ],
+    "version": "1.0.15",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "5AAAC70D754245DD",
+      "69192512C5D6BD59"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "666EC8675EAB2761",
+    "name": "CIE_ADSSway",
+    "project_id": "CIEADSSway",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "657321F104C50692",
+      "648D682E7038491E",
+      "65731A29EFECF878",
+      "656CC5CAB49C7D0A",
+      "6608FD6F58F3B90A",
+      "659ECE86536848BF",
+      "659ECE5E40F4C195",
+      "659ECE205DA1A576",
+      "68DAEEDC74690D05",
+      "666087D35329AAFA",
+      "6A073AA050D33C09",
+      "68DB04C16458D915"
+    ],
+    "version": "1.0.9",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "5AB301290317994A",
+      "5AB890B71D748750",
+      "5ABD0CB57F7E9EB1",
+      "5CA125536EE7430A",
+      "615806DC6C57AF02",
+      "615818DA7C0343FD",
+      "61C74A8B647617DA",
+      "621359270524E029",
+      "62A668F513428630",
+      "631C3C1AEE9C90BC",
+      "6447378A6C7CB747",
+      "645F08FA9E7CDEDE",
+      "648D682E7038491E",
+      "6497438B19727E0D",
+      "64E907AA6A6274D2",
+      "656CC5CAB49C7D0A",
+      "65731A29EFECF878",
+      "657321F104C50692",
+      "659ECE205DA1A576",
+      "659ECE5E40F4C195",
+      "659ECE86536848BF",
+      "65CF7AE8574E06D2",
+      "6608FD6F58F3B90A",
+      "6632F94B46173164",
+      "6642FAF66EF1A7D2",
+      "666087D35329AAFA",
+      "684608DD7C7E0DFB",
+      "6874D3BB57ADC921",
+      "687CD82F6E41D627",
+      "68DAEEDC74690D05",
+      "68DB04C16458D915",
+      "68F006D910E7546F",
+      "68F92DCEEC950E1C",
+      "690AC3895BAAFAE1",
+      "6A073AA050D33C09"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "68B716262E283F5B",
+    "name": "CIE_AK74",
+    "project_id": "CIEAK74",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "6942F388E4816844"
+    ],
+    "version": "1.0.15",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "6942F388E4816844"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "68A8B90512B930D3",
+    "name": "CIE_Conf_casual",
+    "project_id": "CIEConfcasual",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.11",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "689683C01591C1D3",
+    "name": "CIE_Config_6",
+    "project_id": "CIE_Config_6",
+    "dependencies": [
+      "609748A2188EC489",
+      "58D0FB3206B6F859",
+      "623CC5191DFD8751"
+    ],
+    "version": "1.0.21",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "609748A2188EC489",
+      "623CC5191DFD8751"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "68B2060A192FB6D5",
+    "name": "CIE_DB",
+    "project_id": "CIEDB",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.7",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "68D15547FE5B5790",
+    "name": "CIE_Destructible",
+    "project_id": "CIEDestructible",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.9",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "65D4D3876707CF32",
+    "name": "CIE_DonAir",
+    "project_id": "CIEDonAir",
+    "dependencies": [
+      "64770A732AEA31D6",
+      "609748A2188EC489",
+      "60A4E327363B10F1",
+      "58D0FB3206B6F859",
+      "6A48D7CCE5D2CCA8"
+    ],
+    "version": "1.0.33",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "BLOCKED_MISSING_DEPENDENCIES",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "609748A2188EC489",
+      "60A4E327363B10F1",
+      "6A48D7CCE5D2CCA8"
+    ],
+    "missing_dependencies": [
+      "64770A732AEA31D6"
+    ]
+  },
+  {
+    "id": "6660E444158AAFA6",
+    "name": "CIE_DroneSystem",
+    "project_id": "CIEDroneSystem",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "631C62D234400F02",
+      "62EB4D903D542287",
+      "65AD60E204191D37"
+    ],
+    "version": "1.0.56",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "5D0551624969C92E",
+      "609748A2188EC489",
+      "60A4E327363B10F1",
+      "61D57616CAFBB23D",
+      "62C9653A23A9AC3D",
+      "62EB4D903D542287",
+      "631C62D234400F02",
+      "65AD60E204191D37"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "68F153AEDB9A7E8C",
+    "name": "Earplugs",
+    "project_id": "Earplugs",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.49",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "68D642C91F22768B",
+    "name": "CIE_FactionQueue",
+    "project_id": "CIEFactionQueue",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.11",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "69EEF160C7D70F88",
+    "name": "py py",
+    "project_id": "pypy",
+    "dependencies": [
+      "629B2BA37EFFD577",
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.2",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "629B2BA37EFFD577"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "69FAF6F3E50427F7",
+    "name": "CIE_Gear",
+    "project_id": "CIEGear",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "69FAED081EB705B1",
+      "6A391048E6EB2528"
+    ],
+    "version": "1.0.2",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "69FAED081EB705B1",
+      "6A391048E6EB2528"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "69FAED081EB705B1",
+    "name": "CIE_Gear_Assets",
+    "project_id": "CIEGearAssets",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.2",
+    "declared_game_version": "1.8.0.13",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6A391048E6EB2528",
+    "name": "CIE_Gear_Core",
+    "project_id": "CIEGearCore",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.6",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "68989E867344DEAC",
+    "name": "Hardcore Timkil",
+    "project_id": "HardcoreTimkil",
+    "dependencies": [
+      "62C9653A23A9AC3D",
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.32",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "5D0551624969C92E",
+      "62C9653A23A9AC3D"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "69614E13D972288D",
+    "name": "HDR FIX",
+    "project_id": "HDRFIX",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.13",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "68A2E5785A6B1DCC",
+    "name": "CIE_KD",
+    "project_id": "CIEKD",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.11",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6B5E84F04C494542",
+    "name": "CIE Leaderboard Billboard",
+    "project_id": "CIE_LeaderboardBillboard",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.20",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "68A0A3A67F61AFFE",
+    "name": "CIE_LogFrendlyfire",
+    "project_id": "CIELogFrendlyfire",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.5",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "68FB6272004EB7F5",
+    "name": "CIE_Match_Reports",
+    "project_id": "CIEMatchReports",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.6",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6A48D7CCE5D2CCA8",
+    "name": "CIE_Safezone",
+    "project_id": "CIESafezone",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "673F1CF41C07A83D",
+    "name": "CIE_SaveSystem",
+    "project_id": "CIESaveSystem",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "609748A2188EC489"
+    ],
+    "version": "1.0.3",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "609748A2188EC489"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "66467645414A86E4",
+    "name": "CIE_settings",
+    "project_id": "CIEsettings",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "661D08F39DB5ED6A"
+    ],
+    "version": "1.0.11",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "661D08F39DB5ED6A"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "69D41661E2C3EB18",
+    "name": "CIE_SharedExp",
+    "project_id": "CIESharedExp",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "691C32E7EA4AC587"
+    ],
+    "version": "1.0.1",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "5AAAC70D754245DD",
+      "69192512C5D6BD59",
+      "691C32E7EA4AC587"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "68EF1AEEDB19BF8A",
+    "name": "comand",
+    "project_id": "CIE_Streamer_Mod",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.15",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "68F8A813D7EF1E30",
+    "name": "1_Night_Vision",
+    "project_id": "1_NightVision",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.73",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "68EB77F2F4BDC42D",
+    "name": "CIE_VehicleLock",
+    "project_id": "CIEVehicleLock",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.10",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6942F388E4816844",
+    "name": "CIE_WeaponAttachments",
+    "project_id": "CIEWeaponAttachments",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.3",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "66AED3293C6DD44E",
+    "name": "CIE_Artillery",
+    "project_id": "CIE_Artillery",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.1.44",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "64E4E4EF07E53948",
+    "name": "CIE BMP-2",
+    "project_id": "CIEBMP2",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "68F8A813D7EF1E30",
+      "68CD35053063C6D5",
+      "6A4545CCB3516E86"
+    ],
+    "version": "1.0.58",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "68CD35053063C6D5",
+      "68F8A813D7EF1E30",
+      "6A4545CCB3516E86"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "62873EEDBE86B8F9",
+    "name": "CIE Buildings",
+    "project_id": "CIEBuildings",
+    "dependencies": [
+      "609748A2188EC489",
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.7",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "609748A2188EC489"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6A0AB758DD0732F9",
+    "name": "CIE Casual Stamina",
+    "project_id": "CIECasualStamina",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "62C9653A23A9AC3D",
+    "name": "CIE Color Tapes",
+    "project_id": "CIEColorTapes",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "5D0551624969C92E"
+    ],
+    "version": "1.0.5",
+    "declared_game_version": "1.2.1.169",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "5D0551624969C92E"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "631C62D234400F02",
+    "name": "CIE Configs",
+    "project_id": "CIEConfigs",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "609748A2188EC489",
+      "60A4E327363B10F1",
+      "62C9653A23A9AC3D",
+      "61D57616CAFBB23D"
+    ],
+    "version": "1.1.60",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "5D0551624969C92E",
+      "609748A2188EC489",
+      "60A4E327363B10F1",
+      "61D57616CAFBB23D",
+      "62C9653A23A9AC3D"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "623CC5191DFD8751",
+    "name": "CiE Conflict Hardcore",
+    "project_id": "CiEConflictHardcore",
+    "dependencies": [
+      "609748A2188EC489",
+      "58D0FB3206B6F859"
+    ],
+    "version": "0.0.20",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "609748A2188EC489"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "666E6BD9CCDFC4D9",
+    "name": "Desert Tech HTI 50 .BMG",
+    "project_id": "CIE DesertTechHTI50BMG",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.16",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "60A4E327363B10F1",
+    "name": "Legion Weapons Dev",
+    "project_id": "LegionWeaponsDev",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.1.1",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6A0CB104973D39EF",
+    "name": "CIERUSIDE",
+    "project_id": "CIERUSIDE",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "68F8A813D7EF1E30",
+      "68CD35053063C6D5"
+    ],
+    "version": "1.0.5",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "68CD35053063C6D5",
+      "68F8A813D7EF1E30"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "685952488F7E3CBA",
+    "name": "CIE Leopard 2A6",
+    "project_id": "CIELeopard2A6",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "68CD35053063C6D5",
+      "6497438B19727E0D",
+      "68F8A813D7EF1E30"
+    ],
+    "version": "0.0.65",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "6497438B19727E0D",
+      "68CD35053063C6D5",
+      "68F8A813D7EF1E30"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6446DDF41914A293",
+    "name": "Marder 1A3",
+    "project_id": "Marder1A3",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "68CD35053063C6D5",
+      "6A4545CCB3516E86",
+      "68F8A813D7EF1E30"
+    ],
+    "version": "1.0.69",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "68CD35053063C6D5",
+      "68F8A813D7EF1E30",
+      "6A4545CCB3516E86"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "62EB4D903D542287",
+    "name": "CIE PROPS",
+    "project_id": "CIEProps",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.110",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "687AAA1062317DBF",
+    "name": "CIERestart_mod",
+    "project_id": "CIERestartmod",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.3",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "64F2E3033F56D942",
+    "name": "CIE Serhiivka",
+    "project_id": "CIESerhiivka",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "5B1CD0C293D38C98",
+      "5D84C738432BFE6A",
+      "5F0D245931200FD1",
+      "5DE612963E4B005A",
+      "62EB4D903D542287",
+      "609748A2188EC489",
+      "631C62D234400F02",
+      "6271134D85ED0DDA",
+      "646518DA09B1E283",
+      "662D4D48EBB10146",
+      "68A2C605FC3B76A6",
+      "6A48D7CCE5D2CCA8"
+    ],
+    "version": "1.0.79",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "5B1CD0C293D38C98",
+      "5D0551624969C92E",
+      "5D84C738432BFE6A",
+      "5DE612963E4B005A",
+      "5F0D245931200FD1",
+      "609748A2188EC489",
+      "60A4E327363B10F1",
+      "61D57616CAFBB23D",
+      "6271134D85ED0DDA",
+      "62C9653A23A9AC3D",
+      "62EB4D903D542287",
+      "631C62D234400F02",
+      "646518DA09B1E283",
+      "662D4D48EBB10146",
+      "68A2C605FC3B76A6",
+      "6A48D7CCE5D2CCA8"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6330B96AA6C84654",
+    "name": "CIE Snipex Alligator 14.5x114",
+    "project_id": "CIESnipexAlligator145x114",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.27",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6618D00B1C61A18A",
+    "name": "CIE_T72B",
+    "project_id": "CIET72B",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "68CD35053063C6D5",
+      "68F8A813D7EF1E30",
+      "6A4545CCB3516E86"
+    ],
+    "version": "1.0.57",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "68CD35053063C6D5",
+      "68F8A813D7EF1E30",
+      "6A4545CCB3516E86"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "692CB3641EA67FD7",
+    "name": "CIE Tigr",
+    "project_id": "CIETigr",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.13",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "68CD35053063C6D5",
+    "name": "CIE Tracked Core",
+    "project_id": "CIETrackedCore",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "0.0.107",
+    "declared_game_version": "1.8.0.10",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6874D3BB57ADC921",
+    "name": "CIE UAR-10",
+    "project_id": "CIEUAR10",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "645F08FA9E7CDEDE"
+    ],
+    "version": "1.0.11",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "645F08FA9E7CDEDE",
+      "687CD82F6E41D627"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "64C2D989353DDD0A",
+    "name": "CIE Ukrainian IMV Novator",
+    "project_id": "CIEUkrainianIMVNovator",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "68F8A813D7EF1E30",
+      "68CD35053063C6D5"
+    ],
+    "version": "1.0.109",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "68CD35053063C6D5",
+      "68F8A813D7EF1E30"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "68894CE95565AEFC",
+    "name": "CIE Veh Config",
+    "project_id": "CIEVehConfig",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "60D920AB1BF4D22F",
+      "64E4E4EF07E53948",
+      "64C2D989353DDD0A"
+    ],
+    "version": "1.0.17",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "60D920AB1BF4D22F",
+      "61B84088181A8FA4",
+      "64C2D989353DDD0A",
+      "64E4E4EF07E53948",
+      "68CD35053063C6D5",
+      "68F8A813D7EF1E30",
+      "6A4545CCB3516E86"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "5B0D1E4380971EBD",
+    "name": "CSI - COALITION Squad Interface",
+    "project_id": "CoalitionSquadInterface",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.8.10",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6271134D85ED0DDA",
+    "name": "ConflictSafezone",
+    "project_id": "ConflictSafezone",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.14",
+    "declared_game_version": "1.2.1.169",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "62E065F712211563",
+    "name": "Staff Chat Roles by flabby",
+    "project_id": "StaffChatRoles",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "2.2.2",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "613D4634CBB276B2",
+    "name": "Disable Arma Vision",
+    "project_id": "DisableArmaVision",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "2.0.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "647B03B459B2024E",
+    "name": "HideTalkNicknames",
+    "project_id": "HideTalkNicknames",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.5",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "5C8AD2767D87626B",
+    "name": "Disable Friendly Fire",
+    "project_id": "DisableFriendlyFire",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.3",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6316D6621D6C664D",
+    "name": "Fort 221",
+    "project_id": "Fort221",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.12",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "647CB046E0EDE0D9",
+    "name": "Russian Tactical Gear",
+    "project_id": "RussianTacticalGear",
+    "dependencies": [
+      "5D0551624969C92E",
+      "58D0FB3206B6F859",
+      "66C2ED22F25B05C9"
+    ],
+    "version": "1.0.79",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "5D0551624969C92E",
+      "645F08FA9E7CDEDE",
+      "64722DADC53CB75E",
+      "66C2ED22F25B05C9",
+      "687CD82F6E41D627"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "690AC3895BAAFAE1",
+    "name": "FORTEX_RU_weapon_core",
+    "project_id": "FORTEX_RU_weapon_core",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "68F92DCEEC950E1C"
+    ],
+    "version": "1.0.91",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "68F92DCEEC950E1C"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "69293A8ED08A262D",
+    "name": "FORTEX - UkrainianTacticalGear",
+    "project_id": "FORTEX - UkrainianTacticalGear",
+    "dependencies": [
+      "66C2ED22F25B05C9",
+      "58D0FB3206B6F859",
+      "5D0551624969C92E",
+      "645F08FA9E7CDEDE",
+      "687CD82F6E41D627"
+    ],
+    "version": "1.0.16",
+    "declared_game_version": "1.8.0.10",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "5D0551624969C92E",
+      "645F08FA9E7CDEDE",
+      "64722DADC53CB75E",
+      "66C2ED22F25B05C9",
+      "687CD82F6E41D627"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "66C2ED22F25B05C9",
+    "name": "FORTEX Gear Core",
+    "project_id": "FORTEXGearCore",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "64722DADC53CB75E"
+    ],
+    "version": "1.0.14",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "645F08FA9E7CDEDE",
+      "64722DADC53CB75E",
+      "687CD82F6E41D627"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "66D92EE8EB81518C",
+    "name": "FORTEX ORSIS T-5000",
+    "project_id": "FORTEXORSIST5000",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.15",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "68F92DCEEC950E1C",
+    "name": "FORTEX_Dev_AK",
+    "project_id": "FORTEX_Dev_AK",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.28",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "655D72AF8DB4CB84",
+    "name": "Grays Adjustable Doors",
+    "project_id": "Grays_Adjustable_Doors",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.6",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6642FAF66EF1A7D2",
+    "name": "GROZA",
+    "project_id": "GROZA",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "684ADCD15E7F5573",
+    "name": "CHAMPS_T-SHIRTS",
+    "project_id": "CHAMPSTSHIRTS",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.3",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "61DAA7B4B5025363",
+    "name": "V30 Json",
+    "project_id": "V30Json",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.5",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6088A3044B7ECBFD",
+    "name": "Keep Gun When Uncon",
+    "project_id": "UnconNoGunDrop",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.1",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "66CAAA73D189EB5A",
+    "name": "KittenEye_Core",
+    "project_id": "KittenEyeCore",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "0.3.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "689B603AD0526DE8",
+    "name": "KittenEye_StealthGM",
+    "project_id": "KittenEyeStealthGM",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "66C8A7B6CE49E24D",
+    "name": "KittenEye_Tools",
+    "project_id": "KittenEyeTools",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "66CAAA73D189EB5A"
+    ],
+    "version": "0.3.9",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "66CAAA73D189EB5A"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "609748A2188EC489",
+    "name": "UA Legion Conflict",
+    "project_id": "UALegionConflict",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.2.80",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "64DE57C0A1601D14",
+    "name": "Lunacy Audio",
+    "project_id": "LunacyAudio",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "2.1.2",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6590EA22BD212883",
+    "name": "Lunacy Audio CIE Config",
+    "project_id": "LunacyAudioCIEConfig",
+    "dependencies": [
+      "64DE57C0A1601D14",
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.2",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "64DE57C0A1601D14"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6878F57BD02FD297",
+    "name": "M107A1 BARRET Anti-Material",
+    "project_id": "M107A1BARRETAntiMaterial",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.5",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "5CA125536EE7430A",
+    "name": "M110 Marksman Rifle",
+    "project_id": "M110MarksmanRifle",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "5ABD0CB57F7E9EB1",
+      "5AB301290317994A"
+    ],
+    "version": "1.0.28",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "5AB301290317994A",
+      "5ABD0CB57F7E9EB1"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "5AB890B71D748750",
+    "name": "M4 Block II",
+    "project_id": "M4BlockII",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "5ABD0CB57F7E9EB1",
+      "5AB301290317994A"
+    ],
+    "version": "1.7.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "5AB301290317994A",
+      "5ABD0CB57F7E9EB1"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "68A2C605FC3B76A6",
+    "name": "MES_2",
+    "project_id": "MES2",
+    "dependencies": [
+      "662D4D48EBB10146",
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.5",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "662D4D48EBB10146"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "662D4D48EBB10146",
+    "name": "Modular bits",
+    "project_id": "Modularbits",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.30",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6497438B19727E0D",
+    "name": "MG3",
+    "project_id": "MG3",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.10",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "68CEC4AD24212E9F",
+    "name": "Minnesinger Clothes",
+    "project_id": "CIE_MinnesingerClothes",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "5D0551624969C92E"
+    ],
+    "version": "1.0.8",
+    "declared_game_version": "1.8.0.10",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "5D0551624969C92E"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "68CEC56636083A66",
+    "name": "Minnesinger HeadWear",
+    "project_id": "CIE_MinnesingerHeadWear",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "68CEC5B536EB8B4A",
+      "5D0551624969C92E"
+    ],
+    "version": "1.0.5",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "5D0551624969C92E",
+      "68CEC5B536EB8B4A"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "68CEC5B536EB8B4A",
+    "name": "Minnesinger Core",
+    "project_id": "CIE_MinnesingerCore",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "5D0551624969C92E"
+    ],
+    "version": "1.0.11",
+    "declared_game_version": "1.8.0.13",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "5D0551624969C92E"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "68CEC58B288B3AC0",
+    "name": "MInnensinger Gear",
+    "project_id": "CIE_MInnensingerGear",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "5D0551624969C92E",
+      "66C2ED22F25B05C9",
+      "68CEC5B536EB8B4A"
+    ],
+    "version": "1.0.10",
+    "declared_game_version": "1.7.0.54",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "5D0551624969C92E",
+      "645F08FA9E7CDEDE",
+      "64722DADC53CB75E",
+      "66C2ED22F25B05C9",
+      "687CD82F6E41D627",
+      "68CEC5B536EB8B4A"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "648297C0F03CE43A",
+    "name": "ModularVoiceRange",
+    "project_id": "ModularVoiceRange",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "0.0.19",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "64D4E4ACDE3EBEDB",
+    "name": "MOTAR_GhillieSuit",
+    "project_id": "MOTARGhillieSuit",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "0.0.1",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "61B84088181A8FA4",
+    "name": "Motorbike",
+    "project_id": "Motorbike",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.23",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6660F2E7748FC585",
+    "name": "Muffs_Mods",
+    "project_id": "MuffsMods",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.12",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "661EC1140DA89179",
+    "name": "Nasty OSV-96",
+    "project_id": "NastyOSV96",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "0.0.28",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6A3CCEC67529CE12",
+    "name": "Nested Attachments",
+    "project_id": "NestedAttachments",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.1",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "64722DADC53CB75E",
+    "name": "NV-System",
+    "project_id": "NVSystem",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "645F08FA9E7CDEDE"
+    ],
+    "version": "1.0.35",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "645F08FA9E7CDEDE",
+      "687CD82F6E41D627"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6447378A6C7CB747",
+    "name": "PKP-B",
+    "project_id": "PKPB",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "5DE612963E4B005A",
+    "name": "Rail Enfusion Redux",
+    "project_id": "RailEnfusionRedux",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "5F0D245931200FD1"
+    ],
+    "version": "1.0.12",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "5F0D245931200FD1"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "5F0D245931200FD1",
+    "name": "Railway Generator",
+    "project_id": "RailwayGenerator",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.5",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6632F94B46173164",
+    "name": "Rayzi Utils",
+    "project_id": "RayziUtils",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.12",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "65AD60E204191D37",
+    "name": "Realistic Combat Drones",
+    "project_id": "RealisticCombatDrones",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "2.3.7",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "69148A1D52696666",
+    "name": "RGM-40_GL-06",
+    "project_id": "RGM40GL06",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.9",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "1337C0DE5DABBEEF",
+    "name": "RHS: Status Quo - Content Pack 01",
+    "project_id": "RHS_Content_01",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "0.16.5208",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "BADC0DEDABBEDA5E",
+    "name": "RHS: Status Quo - Content Pack 02",
+    "project_id": "RHS_Content_02",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "0.16.5208",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "595F2BF2F44836FB",
+    "name": "RHS: Status Quo",
+    "project_id": "RHS_Core",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "1337C0DE5DABBEEF",
+      "BADC0DEDABBEDA5E"
+    ],
+    "version": "0.16.5208",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "1337C0DE5DABBEEF",
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "BADC0DEDABBEDA5E"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "661D08F39DB5ED6A",
+    "name": "Riot Shield",
+    "project_id": "RiotShield",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.9",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "5ABD0CB57F7E9EB1",
+    "name": "RIS Laser Attachments",
+    "project_id": "RISLaserAttachments",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.8.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6528F296E88F783F",
+    "name": "RTG Launches",
+    "project_id": "RTGLaunches",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.6",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "5AAAC70D754245DD",
+    "name": "Server Admin Tools",
+    "project_id": "ServerAdminTools",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.7.1",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "60D920AB1BF4D22F",
+    "name": "Server Vehicles",
+    "project_id": "ServerVehicles",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "61B84088181A8FA4"
+    ],
+    "version": "1.0.176",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "61B84088181A8FA4"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "61ED28EAECF0D304",
+    "name": "Solo Push-Pull",
+    "project_id": "SoloPushPull",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "0.0.14",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "69192512C5D6BD59",
+    "name": "SteelPath - AC",
+    "project_id": "SteelPathAC",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.6",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "59EAA899751805DF",
+    "name": "Stun Grenade",
+    "project_id": "BaconStunGrenade",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.3.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "64E907AA6A6274D2",
+    "name": "SVU-AS (OTs-03AS)",
+    "project_id": "SVU-AS",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "61ECB5EFAA346151",
+    "name": "TacticalAnimsOverhaul",
+    "project_id": "TacticalAnimsOverhaul",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "2.0.78",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "5EE2A316699473D1",
+    "name": "Third Person Vehicle Only",
+    "project_id": "ThirdPersonVehicleOnly",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.1",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "646518DA09B1E283",
+    "name": "Ukraine Trenches",
+    "project_id": "UkraineTrenches",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.3",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "621359270524E029",
+    "name": "Vulkan M - Malyuk 7.62x39",
+    "project_id": "Vulkan M - Malyuk 7.62x39",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "5ABD0CB57F7E9EB1"
+    ],
+    "version": "1.0.56",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "5ABD0CB57F7E9EB1"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6122DD5CCF5C59E6",
+    "name": "WCS_AFKKick",
+    "project_id": "WCS_AFKKick",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "64CB39E57377C861",
+    "name": "WCS_AH-1S",
+    "project_id": "WCS_AH-1S",
+    "dependencies": [
+      "629B2BA37EFFD577",
+      "58D0FB3206B6F859"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "629B2BA37EFFD577"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6303360DA719E832",
+    "name": "WCS_AH-64D",
+    "project_id": "WCS_AH-64D",
+    "dependencies": [
+      "62CCD69DD17E4F2F",
+      "58D0FB3206B6F859",
+      "629B2BA37EFFD577"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "1.8.0.13",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "629B2BA37EFFD577",
+      "62CCD69DD17E4F2F"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6326F0C7E748AB8A",
+    "name": "WCS_AH-64D_Upgrade",
+    "project_id": "WCS_AH-64D_Upgrade",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "6303360DA719E832",
+      "629B2BA37EFFD577",
+      "62CCD69DD17E4F2F",
+      "595F2BF2F44836FB",
+      "662EB83AB3F8CAE3"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "1337C0DE5DABBEEF",
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "595F2BF2F44836FB",
+      "629B2BA37EFFD577",
+      "62CCD69DD17E4F2F",
+      "6303360DA719E832",
+      "662EB83AB3F8CAE3",
+      "BADC0DEDABBEDA5E"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6273146ADFE8241D",
+    "name": "WCS_AH-6M",
+    "project_id": "WCS_AH-6M",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "629B2BA37EFFD577",
+      "62CCD69DD17E4F2F"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "629B2BA37EFFD577",
+      "62CCD69DD17E4F2F"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "62AE96D92179F7A0",
+    "name": "WCS_AH-6M_Upgrade",
+    "project_id": "WCS_AH-6M_Upgrade",
+    "dependencies": [
+      "6273146ADFE8241D",
+      "595F2BF2F44836FB",
+      "58D0FB3206B6F859",
+      "662EB83AB3F8CAE3"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "1337C0DE5DABBEEF",
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "595F2BF2F44836FB",
+      "6273146ADFE8241D",
+      "629B2BA37EFFD577",
+      "62CCD69DD17E4F2F",
+      "662EB83AB3F8CAE3",
+      "BADC0DEDABBEDA5E"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "629B2BA37EFFD577",
+    "name": "WCS_Armaments",
+    "project_id": "WCS_Armaments",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "61E42AE6714A3CC2",
+    "name": "WCS_Armbands",
+    "project_id": "WCS_Armbands",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "8.1.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "615CC2D870A39838",
+    "name": "WCS_Arsenal",
+    "project_id": "WCS_Arsenal",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "64610AFB74AA9842",
+      "1337C0DE5DABBEEF",
+      "BADC0DEDABBEDA5E",
+      "595F2BF2F44836FB",
+      "6602C1EC7E5A4A87",
+      "6152CB0BD0684837",
+      "61E42AE6714A3CC2",
+      "61C74A8B647617DA",
+      "62A668F513428630",
+      "631C3C1AEE9C90BC",
+      "615806DC6C57AF02",
+      "615818DA7C0343FD",
+      "65CF7AE8574E06D2",
+      "65F929DF622BAD50",
+      "61D57616CAFBB23D",
+      "629B2BA37EFFD577"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "1337C0DE5DABBEEF",
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "595F2BF2F44836FB",
+      "6152CB0BD0684837",
+      "615806DC6C57AF02",
+      "615818DA7C0343FD",
+      "61C74A8B647617DA",
+      "61D57616CAFBB23D",
+      "61E42AE6714A3CC2",
+      "629B2BA37EFFD577",
+      "62A668F513428630",
+      "631C3C1AEE9C90BC",
+      "64610AFB74AA9842",
+      "65CF7AE8574E06D2",
+      "65F929DF622BAD50",
+      "6602C1EC7E5A4A87",
+      "68F006D910E7546F",
+      "BADC0DEDABBEDA5E"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "61C74A8B647617DA",
+    "name": "WCS_Attachments",
+    "project_id": "WCS_Attachments",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "68F006D910E7546F"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "68F006D910E7546F"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6596F8A1309D1B9F",
+    "name": "WCS_BelleauWood",
+    "project_id": "WCS_BelleauWood",
+    "dependencies": [
+      "629EDC37CDE3AD35",
+      "64610AFB74AA9842",
+      "58D0FB3206B6F859"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "5DE612963E4B005A",
+      "5F0D245931200FD1",
+      "629EDC37CDE3AD35",
+      "64610AFB74AA9842"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "5B383D4CB27E0D54",
+    "name": "WCS_BMP-3",
+    "project_id": "WCS_BMP-3",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "5E389BB9F58B79A6",
+      "629B2BA37EFFD577"
+    ],
+    "version": "8.2.1",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "5E389BB9F58B79A6",
+      "629B2BA37EFFD577"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6152CB0BD0684837",
+    "name": "WCS_Clothing",
+    "project_id": "WCS_Clothing",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "6602C1EC7E5A4A87"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "6602C1EC7E5A4A87"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6602C1EC7E5A4A87",
+    "name": "WCS_Clothing_Assets",
+    "project_id": "WCS_Clothing_Assets",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "61A25BD1C99515B5",
+    "name": "WCS_Commands",
+    "project_id": "WCS_Commands",
+    "dependencies": [
+      "64610AFB74AA9842",
+      "58D0FB3206B6F859"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "64610AFB74AA9842"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "64610AFB74AA9842",
+    "name": "WCS_Core",
+    "project_id": "WCS_Core",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "612F512CD4CB21D5",
+    "name": "WCS_Earplugs",
+    "project_id": "WCS_Earplugs",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "8.1.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6148289172F86E7A",
+    "name": "WCS_Everon",
+    "project_id": "WCS_Everon",
+    "dependencies": [
+      "64610AFB74AA9842",
+      "58D0FB3206B6F859"
+    ],
+    "version": "8.1.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "64610AFB74AA9842"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6146FAED5AAD7C55",
+    "name": "WCS_Helicopters",
+    "project_id": "WCS_Helicopters",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "61BA4EB5C886D396",
+      "629B2BA37EFFD577",
+      "64610AFB74AA9842",
+      "595F2BF2F44836FB"
+    ],
+    "version": "8.1.2",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "1337C0DE5DABBEEF",
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "595F2BF2F44836FB",
+      "61BA4EB5C886D396",
+      "629B2BA37EFFD577",
+      "64610AFB74AA9842",
+      "BADC0DEDABBEDA5E"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6A20948448913FD7",
+    "name": "WCS_Hescos",
+    "project_id": "WCS_Hescos",
+    "dependencies": [
+      "64610AFB74AA9842",
+      "58D0FB3206B6F859"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "64610AFB74AA9842"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "672D432E181E6807",
+    "name": "WCS_HoldBreath",
+    "project_id": "WCS_HoldBreath",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "8.1.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "614D1A3874A23AD9",
+    "name": "WCS_Interface",
+    "project_id": "WCS_Interface",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "64610AFB74AA9842"
+    ],
+    "version": "8.1.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "64610AFB74AA9842"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "5C721177A220B42F",
+    "name": "WCS_JLTV",
+    "project_id": "WCS_JLTV",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "5E389BB9F58B79A6",
+      "629B2BA37EFFD577"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "5E389BB9F58B79A6",
+      "629B2BA37EFFD577"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6528B3CE24C85120",
+    "name": "WCS_JLTV_Upgrade",
+    "project_id": "WCS_JLTV_Upgrade",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "5E389BB9F58B79A6",
+      "5C721177A220B42F",
+      "629B2BA37EFFD577",
+      "595F2BF2F44836FB",
+      "662EB83AB3F8CAE3"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "1337C0DE5DABBEEF",
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "595F2BF2F44836FB",
+      "5C721177A220B42F",
+      "5E389BB9F58B79A6",
+      "629B2BA37EFFD577",
+      "62CCD69DD17E4F2F",
+      "662EB83AB3F8CAE3",
+      "BADC0DEDABBEDA5E"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "64CB35D07BAEE60F",
+    "name": "WCS_KA-52",
+    "project_id": "WCS_KA-52",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "629B2BA37EFFD577",
+      "62CCD69DD17E4F2F"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "629B2BA37EFFD577",
+      "62CCD69DD17E4F2F"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6508EDDEF93B2B29",
+    "name": "WCS_KA-52_Upgrade",
+    "project_id": "WCS_KA-52_Upgrade",
+    "dependencies": [
+      "595F2BF2F44836FB",
+      "64CB35D07BAEE60F",
+      "58D0FB3206B6F859",
+      "662EB83AB3F8CAE3",
+      "629B2BA37EFFD577"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "1337C0DE5DABBEEF",
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "595F2BF2F44836FB",
+      "629B2BA37EFFD577",
+      "62CCD69DD17E4F2F",
+      "64CB35D07BAEE60F",
+      "662EB83AB3F8CAE3",
+      "BADC0DEDABBEDA5E"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "684CE0507D2F8AD2",
+    "name": "WCS_KBA-105",
+    "project_id": "WCS_KBA-105",
+    "dependencies": [
+      "629B2BA37EFFD577",
+      "58D0FB3206B6F859"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "629B2BA37EFFD577"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "61D57616CAFBB23D",
+    "name": "WCS_LoadoutEditor",
+    "project_id": "WCS_LoadoutEditor",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "8.0.0",
+    "declared_game_version": "1.8.0.10",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "5D1880C4AD410C14",
+    "name": "WCS_M1A1",
+    "project_id": "WCS_M1A1",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "5E389BB9F58B79A6",
+      "629B2BA37EFFD577"
+    ],
+    "version": "8.2.1",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "5E389BB9F58B79A6",
+      "629B2BA37EFFD577"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6A3873C87EA8E2BA",
+    "name": "WCS_M1A1_Upgrade",
+    "project_id": "WCS_M1A1_Upgrade",
+    "dependencies": [
+      "595F2BF2F44836FB",
+      "5D1880C4AD410C14",
+      "58D0FB3206B6F859"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "1337C0DE5DABBEEF",
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "595F2BF2F44836FB",
+      "5D1880C4AD410C14",
+      "5E389BB9F58B79A6",
+      "629B2BA37EFFD577",
+      "BADC0DEDABBEDA5E"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "63120AE07E6C0966",
+    "name": "WCS_M2A2",
+    "project_id": "WCS_M2A2",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "5E389BB9F58B79A6",
+      "629B2BA37EFFD577"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "5E389BB9F58B79A6",
+      "629B2BA37EFFD577"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6A3873E87AD57606",
+    "name": "WCS_M2A2_Upgrade",
+    "project_id": "WCS_M2A2_Upgrade",
+    "dependencies": [
+      "595F2BF2F44836FB",
+      "63120AE07E6C0966",
+      "58D0FB3206B6F859"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "1337C0DE5DABBEEF",
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "595F2BF2F44836FB",
+      "5E389BB9F58B79A6",
+      "629B2BA37EFFD577",
+      "63120AE07E6C0966",
+      "BADC0DEDABBEDA5E"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "628933A0D3A0D700",
+    "name": "WCS_Mi-24V",
+    "project_id": "WCS_Mi-24V",
+    "dependencies": [
+      "629B2BA37EFFD577",
+      "62CCD69DD17E4F2F"
+    ],
+    "version": "8.0.1",
+    "declared_game_version": "1.8.0.10",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "629B2BA37EFFD577",
+      "62CCD69DD17E4F2F"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6608EB45061AFC69",
+    "name": "WCS_Mi-24V_Upgrade",
+    "project_id": "WCS_Mi-24V_Upgrade",
+    "dependencies": [
+      "628933A0D3A0D700",
+      "58D0FB3206B6F859",
+      "629B2BA37EFFD577",
+      "62CCD69DD17E4F2F",
+      "595F2BF2F44836FB",
+      "662EB83AB3F8CAE3"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "1337C0DE5DABBEEF",
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "595F2BF2F44836FB",
+      "628933A0D3A0D700",
+      "629B2BA37EFFD577",
+      "62CCD69DD17E4F2F",
+      "662EB83AB3F8CAE3",
+      "BADC0DEDABBEDA5E"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6503091A7B264FC3",
+    "name": "WCS_Motorbikes",
+    "project_id": "WCS_Motorbikes",
+    "dependencies": [
+      "61B84088181A8FA4",
+      "629B2BA37EFFD577",
+      "58D0FB3206B6F859"
+    ],
+    "version": "8.1.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "61B84088181A8FA4",
+      "629B2BA37EFFD577"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "64900A5A31F5DCB5",
+    "name": "WCS_MRZR",
+    "project_id": "WCS_MRZR",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "629B2BA37EFFD577"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "629B2BA37EFFD577"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "615806DC6C57AF02",
+    "name": "WCS_NATO",
+    "project_id": "WCS_NATO",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "61C74A8B647617DA",
+      "62A668F513428630",
+      "631C3C1AEE9C90BC"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "61C74A8B647617DA",
+      "62A668F513428630",
+      "631C3C1AEE9C90BC",
+      "68F006D910E7546F"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6A5CD29B7A1E449D",
+    "name": "WCS_RHS_DisableThermals",
+    "project_id": "WCS_RHS_DisableThermals",
+    "dependencies": [
+      "595F2BF2F44836FB",
+      "58D0FB3206B6F859"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "1337C0DE5DABBEEF",
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "595F2BF2F44836FB",
+      "BADC0DEDABBEDA5E"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "3B8081D9CAD979D2",
+    "name": "WCS_RHS_Scopes",
+    "project_id": "WCS_RHS_Scopes",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "595F2BF2F44836FB",
+      "68F006D910E7546F",
+      "62A668F513428630"
+    ],
+    "version": "8.1.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "1337C0DE5DABBEEF",
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "595F2BF2F44836FB",
+      "62A668F513428630",
+      "68F006D910E7546F",
+      "BADC0DEDABBEDA5E"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6A50528453E5FF27",
+    "name": "WCS_RHS_Vehicles",
+    "project_id": "WCS_RHS_Vehicles",
+    "dependencies": [
+      "629B2BA37EFFD577",
+      "5E389BB9F58B79A6",
+      "595F2BF2F44836FB",
+      "58D0FB3206B6F859",
+      "615A80027C5C9170"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "1337C0DE5DABBEEF",
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "595F2BF2F44836FB",
+      "5E389BB9F58B79A6",
+      "615A80027C5C9170",
+      "61BA4EB5C886D396",
+      "629B2BA37EFFD577",
+      "64610AFB74AA9842",
+      "BADC0DEDABBEDA5E"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "65F929DF622BAD50",
+    "name": "WCS_RHS_Weapons",
+    "project_id": "WCS_RHS_Weapons",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "65CF7AE8574E06D2",
+      "595F2BF2F44836FB",
+      "68F006D910E7546F"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "1337C0DE5DABBEEF",
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "595F2BF2F44836FB",
+      "615806DC6C57AF02",
+      "615818DA7C0343FD",
+      "61C74A8B647617DA",
+      "62A668F513428630",
+      "631C3C1AEE9C90BC",
+      "65CF7AE8574E06D2",
+      "68F006D910E7546F",
+      "BADC0DEDABBEDA5E"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "615818DA7C0343FD",
+    "name": "WCS_RU",
+    "project_id": "WCS_RU",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "61C74A8B647617DA",
+      "62A668F513428630",
+      "631C3C1AEE9C90BC"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "61C74A8B647617DA",
+      "62A668F513428630",
+      "631C3C1AEE9C90BC",
+      "68F006D910E7546F"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "65DD60A16AE0FF73",
+    "name": "WCS_Rules",
+    "project_id": "WCS_Rules",
+    "dependencies": [
+      "64610AFB74AA9842",
+      "58D0FB3206B6F859"
+    ],
+    "version": "8.1.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "64610AFB74AA9842"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "62A668F513428630",
+    "name": "WCS_Scopes",
+    "project_id": "WCS_Scopes",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "68F006D910E7546F"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "68F006D910E7546F"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "61557578724DBE60",
+    "name": "WCS_Serhiivka",
+    "project_id": "WCS_Serhiivka",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "64610AFB74AA9842"
+    ],
+    "version": "8.0.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "64610AFB74AA9842"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "648B595F6C72B4CB",
+    "name": "WCS_Settings",
+    "project_id": "WCS_Settings",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "8.1.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "631C3C1AEE9C90BC",
+    "name": "WCS_Sounds",
+    "project_id": "WCS_Sounds",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "5E389BB9F58B79A6",
+    "name": "WCS_SpaceCore",
+    "project_id": "WCS_SpaceCore",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "629B2BA37EFFD577"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "629B2BA37EFFD577"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "614C00DA7F8765F6",
+    "name": "WCS_SpawnProtection",
+    "project_id": "WCS_SpawnProtection",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "8.1.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "66A513FA8DEEB7C0",
+    "name": "WCS_Squads",
+    "project_id": "WCS_Squads",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "615CC2D870A39838"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "1337C0DE5DABBEEF",
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "595F2BF2F44836FB",
+      "6152CB0BD0684837",
+      "615806DC6C57AF02",
+      "615818DA7C0343FD",
+      "615CC2D870A39838",
+      "61C74A8B647617DA",
+      "61D57616CAFBB23D",
+      "61E42AE6714A3CC2",
+      "629B2BA37EFFD577",
+      "62A668F513428630",
+      "631C3C1AEE9C90BC",
+      "64610AFB74AA9842",
+      "65CF7AE8574E06D2",
+      "65F929DF622BAD50",
+      "6602C1EC7E5A4A87",
+      "68F006D910E7546F",
+      "BADC0DEDABBEDA5E"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "685EDA5A6ACD53C5",
+    "name": "WCS_Suppression",
+    "project_id": "WCS_Suppression",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "8.1.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "61C4B48772550E0F",
+    "name": "WCS_TempFixes",
+    "project_id": "WCS_TempFixes",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "61BA4EB5C886D396",
+    "name": "WCS_VehicleLock",
+    "project_id": "WCS_VehicleLock",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "8.1.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "615A80027C5C9170",
+    "name": "WCS_Vehicles",
+    "project_id": "WCS_Vehicles",
+    "dependencies": [
+      "629B2BA37EFFD577",
+      "61BA4EB5C886D396",
+      "64610AFB74AA9842",
+      "595F2BF2F44836FB",
+      "58D0FB3206B6F859"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "1337C0DE5DABBEEF",
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "595F2BF2F44836FB",
+      "61BA4EB5C886D396",
+      "629B2BA37EFFD577",
+      "64610AFB74AA9842",
+      "BADC0DEDABBEDA5E"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "69333B6C7C8BE8AB",
+    "name": "WCS_VON",
+    "project_id": "WCS_VON",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "64610AFB74AA9842"
+    ],
+    "version": "8.1.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "64610AFB74AA9842"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "68F006D910E7546F",
+    "name": "WCS_Weapon_Scripts",
+    "project_id": "WCS_Weapon_Scripts",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "65CF7AE8574E06D2",
+    "name": "WCS_Weapons",
+    "project_id": "WCS_Weapons",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "615806DC6C57AF02",
+      "615818DA7C0343FD",
+      "68F006D910E7546F"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "615806DC6C57AF02",
+      "615818DA7C0343FD",
+      "61C74A8B647617DA",
+      "62A668F513428630",
+      "631C3C1AEE9C90BC",
+      "68F006D910E7546F"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "63294BA2D9F0339B",
+    "name": "WCS_ZU-23-2",
+    "project_id": "WCS_ZU-23-2",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "629B2BA37EFFD577"
+    ],
+    "version": "8.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "629B2BA37EFFD577"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "6A1B353A9F141C82",
+    "name": "WCS to Arsenal CIE",
+    "project_id": "WCStoArsenalCIE",
+    "dependencies": [
+      "65CF7AE8574E06D2",
+      "62A668F513428630",
+      "58D0FB3206B6F859",
+      "61C74A8B647617DA",
+      "6602C1EC7E5A4A87"
+    ],
+    "version": "1.0.30",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "615806DC6C57AF02",
+      "615818DA7C0343FD",
+      "61C74A8B647617DA",
+      "62A668F513428630",
+      "631C3C1AEE9C90BC",
+      "65CF7AE8574E06D2",
+      "6602C1EC7E5A4A87",
+      "68F006D910E7546F"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "5965550F24A0C152",
+    "name": "Where Am I?",
+    "project_id": "WhereAmI",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.2.0",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "62F364B35E9B51B0",
+    "name": "Wirecutters2",
+    "project_id": "Wirecutters2",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.1.12",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "5D84C738432BFE6A",
+    "name": "WolfsBuildingPack",
+    "project_id": "WolfsBuildingPack",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "5F0D245931200FD1"
+    ],
+    "version": "0.1.56",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "5F0D245931200FD1"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "5B1CD0C293D38C98",
+    "name": "ZBK",
+    "project_id": "ZBK",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.0.20",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "5D0551624969C92E",
+    "name": "Zelik's Character",
+    "project_id": "ZEL_Character",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.1.20",
+    "declared_game_version": "1.6.0.68",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "62D15D0025AE021B",
+    "name": "ZSU-23-4 Shilka",
+    "project_id": "ZSU-23-4",
+    "dependencies": [
+      "58D0FB3206B6F859",
+      "5E389BB9F58B79A6",
+      "629B2BA37EFFD577"
+    ],
+    "version": "1.1.6",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859",
+      "5E389BB9F58B79A6",
+      "629B2BA37EFFD577"
+    ],
+    "missing_dependencies": []
+  },
+  {
+    "id": "5C9AD9EF76F6B5EA",
+    "name": "ZU-23",
+    "project_id": "ZU23",
+    "dependencies": [
+      "58D0FB3206B6F859"
+    ],
+    "version": "1.7.1",
+    "declared_game_version": "",
+    "corrupted": false,
+    "compatibility": "NOT_COMPILED_OR_MOUNTED",
+    "dependency_closure": [
+      "5614BBCCBB55ED1C",
+      "58D0FB3206B6F859"
+    ],
+    "missing_dependencies": []
+  }
+]

@@ -1,0 +1,8 @@
+.local/
+__pycache__/
+*.pyc
+*.log
+*.rdb
+*.pak
+*.bak
+*.gproj.local

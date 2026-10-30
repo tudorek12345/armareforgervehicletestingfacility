@@ -1,0 +1,888 @@
+SCR_AIWorld RVP_AIWorld : "{01DC74137CFDDB6A}Prefabs/AI/SCR_AIWorld_Arland.et" {
+ coords 1196.954 38.12 2831.606
+}
+PerceptionManager RVP_Perception : "{028DAEAD63E056BE}Prefabs/World/Game/PerceptionManager.et" {
+ coords 1196.954 38.12 2831.606
+}
+SCR_BaseGameMode RVP_GameMode : "{1B76F75A3175E85C}Prefabs/MP/Modes/Plain/GameMode_Plain.et" {
+ components {
+  SCR_RespawnSystemComponent "{56B2B4793051E7C9}" {
+   m_SpawnLogic SCR_AutoSpawnLogic "{5D36888CC966608A}" {
+    m_sForcedFaction "US"
+   }
+  }
+  SCR_TimeAndWeatherHandlerComponent "{6ABC11E7EC1D969A}" {
+  }
+ }
+ coords 1196.954 38.12 2831.606
+}
+SCR_FactionManager RVP_Factions : "{589540B35EBA8CDC}Prefabs/MP/Managers/Factions/FactionManager_USxUSSR.et" {
+ coords 1196.954 38.12 2831.606
+}
+RadioManagerEntity RVP_Radio : "{B8E09FAB91C4ECCD}Prefabs/Systems/Radio/RadioManager.et" {
+ coords 1196.954 38.12 2831.606
+}
+ScriptedChatEntity RVP_Chat : "{F69BC912AC8236F9}Prefabs/MP/ScriptedChatEntity.et" {
+ coords 1196.954 38.12 2831.606
+}
+$grp GenericEntity {
+ RVP_Travel_Hub {
+  coords 1196.954 38.12 2831.606
+ }
+ RVP_Area_Ground {
+  coords 1228.954 37.949 2843.606
+ }
+ RVP_Travel_Ground {
+  coords 1228.954 37.949 2843.606
+ }
+ RVP_Area_Armor {
+  coords 1434.954 39.039 2839.606
+ }
+ RVP_Travel_Armor {
+  coords 1434.954 39.039 2839.606
+ }
+ RVP_Area_Helicopters {
+  coords 1114.954 38.12 2849.606
+ }
+ RVP_Travel_Helicopters {
+  coords 1114.954 38.12 2849.606
+ }
+ RVP_Area_FixedWing {
+  coords 1032.954 38.12 2811.606
+ }
+ RVP_Travel_FixedWing {
+  coords 1032.954 38.12 2811.606
+ }
+ RVP_Area_Weapons {
+  coords 2162.954 51.431 2747.606
+ }
+ RVP_Travel_Weapons {
+  coords 2162.954 51.431 2747.606
+ }
+}
+RVP_EnemyBase RVP_EnemyBase {
+ coords 2422.954 87.696 1413.606
+}
+RVP_Playground RVP_Controller {
+ coords 1196.954 38.12 2831.606
+}
+Vehicle RVP_Display_16 : "{00BC1E407D536A34}Prefabs/Vehicles/Helicopters/UH1H/UH1H_armed_sharkNose.et" {
+ coords 1438.95 38.233 2921.61
+}
+Vehicle RVP_Display_65 : "{00C9BBE426F7D459}Prefabs/Vehicles/Wheeled/M998/M997_maxi_ambulance.et" {
+ coords 1444.95 37.951 2699.61
+}
+Vehicle RVP_Display_106 : "{01F65EFB8D767A91}Prefabs/Vehicles/Wheeled/UAZ452/UAZ452_cargo.et" {
+ coords 1084.95 37.759 2501.61
+}
+Vehicle RVP_Display_57 : "{04BDACC0BB83284E}Prefabs/Vehicles/Wheeled/M923A1/M923A1_transport_covered_MERDC.et" {
+ coords 1408.95 37.858 2933.61
+}
+Vehicle RVP_Display_148 : "{076B33106723D087}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_engineer_FIA.et" {
+ coords 1174.95 38.646 2429.61
+}
+Vehicle RVP_Display_132 : "{0B4DEA8078B78A9B}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_PKM.et" {
+ coords 1606.95 38.127 2771.61
+}
+$grp GenericEntity : "{0D0EF81F5F5DCC67}Prefabs/Weapons/Ammo/Shell_82mm_Charge_Ring.et" {
+ RVP_MortarSupply_32 {
+  coords 2196.95 53.908 2717.61
+ }
+ RVP_MortarSupply_33 {
+  coords 2160.95 51.437 2751.61
+ }
+ RVP_MortarSupply_34 {
+  coords 2178.95 52.231 2749.61
+ }
+ RVP_MortarSupply_35 {
+  coords 2196.95 54.064 2711.61
+ }
+}
+Vehicle RVP_Display_29 : "{0FBF8F010F81A4E5}Prefabs/Vehicles/Wheeled/LAV25/LAV25.et" {
+ coords 1488.95 37.931 2911.61
+}
+Vehicle RVP_Display_100 : "{11A28C90DB40318D}Prefabs/Vehicles/Wheeled/S1203/S1203_transport_red.et" {
+ coords 1534.95 37.97 2879.61
+}
+Vehicle RVP_Display_83 : "{128253A267BE9424}Prefabs/Vehicles/Wheeled/S105/S105_randomized.et" {
+ coords 1066.95 37.896 2573.61
+}
+Vehicle RVP_Display_10 : "{137DCF41459A89BE}Prefabs/Vehicles/Helicopters/UH1H/UH1H_armed_gunship_empty.et" {
+ coords 1348.95 38.729 2831.61
+}
+Vehicle RVP_Display_162 : "{1449105FD658EDFB}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_transport_CIV_forest.et" {
+ coords 1156.95 37.939 2411.61
+}
+Vehicle RVP_Display_48 : "{14FD2616BAB3157D}Prefabs/Vehicles/Wheeled/M923A1/M923A1_MERDC.et" {
+ coords 1084.95 37.701 2897.61
+}
+Vehicle RVP_Display_135 : "{16A674FE31B0921C}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_uncovered.et" {
+ coords 1606.95 38.061 2915.61
+}
+Vehicle RVP_Display_161 : "{16C1F16C9B053801}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_transport.et" {
+ coords 1642.95 38.941 2951.61
+}
+Vehicle RVP_Display_152 : "{16E32C3ABEAFC2C6}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_FIA_transport.et" {
+ coords 1624.95 40.408 2429.61
+}
+Vehicle RVP_Display_138 : "{1B0D46B41C50873D}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_uncovered_CIV_Randomized.et" {
+ coords 1570.95 40.044 2447.61
+}
+Vehicle RVP_Display_146 : "{1BABF6B33DA0AEB6}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_command.et" {
+ coords 1138.95 38.104 2429.61
+}
+GenericEntity RVP_EnemyStructure_0 : "{1D2887BB9A7D4670}Prefabs/Compositions/Misc/SubCompositions/Tents/Tent_CommandPost_USSR_01.et" {
+ coords 2444.95 88.536 1413.61
+}
+Vehicle RVP_Display_107 : "{1D96D899FA313A08}Prefabs/Vehicles/Wheeled/UAZ452/UAZ452_cargo_CIV_blue.et" {
+ coords 1102.95 38.162 2501.61
+}
+Vehicle RVP_Display_113 : "{1FBB492E86002BF5}Prefabs/Vehicles/Wheeled/UAZ452/UAZ452_transport.et" {
+ coords 1570.95 38.021 2879.61
+}
+Vehicle RVP_Display_41 : "{1FF144F8A209239D}Prefabs/Vehicles/Wheeled/M923A1/M923A1_arsenal.et" {
+ coords 1336.95 37.858 2879.61
+}
+Vehicle RVP_Display_47 : "{2013579FE0B109F3}Prefabs/Vehicles/Wheeled/M923A1/M923A1_engineer_MERDC_filled.et" {
+ coords 1084.95 38.366 2771.61
+}
+Vehicle RVP_Display_12 : "{21E9A875C0A3C409}Prefabs/Vehicles/Helicopters/UH1H/UH1H_armed_gunship_HE.et" {
+ coords 1042.95 37.935 2597.61
+}
+Vehicle RVP_Display_133 : "{22B327C6752EC4D4}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_PKM_FIA.et" {
+ coords 850.954 38.938 2825.61
+}
+Vehicle RVP_Display_101 : "{23B8C20ACAEC164B}Prefabs/Vehicles/Wheeled/S1203/S1203_transport_white.et" {
+ coords 1084.95 37.728 2519.61
+}
+Vehicle RVP_Display_19 : "{254289B9C09904AB}Prefabs/Vehicles/Wheeled/BRDM2/BRDM2.et" {
+ coords 1452.95 38.631 2839.61
+}
+GenericEntity RVP_EnemyStructure_5 : "{25861AD07CEE719B}Prefabs/Compositions/Misc/SubCompositions/Fortifications/Sandbag_MG_USSR_01_PKM.et" {
+ coords 2487.95 80.155 1643.61
+ angles 0 0 0
+}
+$grp Vehicle : "{259EE7B78C51B624}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469.et" {
+ RVP_Display_120 {
+  coords 868.954 40.084 2807.61
+ }
+ RVP_Target_0 {
+  coords 2198.95 52.966 2759.61
+ }
+ RVP_Target_1 {
+  coords 2162.95 53.719 2903.61
+ }
+ RVP_Target_2 {
+  coords 2144.95 53.719 2939.61
+ }
+ RVP_Target_3 {
+  coords 2162.95 71.895 2435.61
+ }
+ RVP_Target_4 {
+  coords 2756.95 2.15 3317.61
+ }
+ RVP_Target_5 {
+  coords 1856.95 27.176 1949.61
+ }
+ RVP_Target_6 {
+  coords 3098.95 44.51 2417.61
+ }
+ RVP_Target_7 {
+  coords 2774.95 65.143 1913.61
+ }
+}
+GenericEntity RVP_EnemyStructure_2 : "{25F3D3F3BD413CA5}Prefabs/Compositions/Misc/SubCompositions/Tents/Tent_Barracks_USSR_02.et" {
+ coords 2440.95 89.12 1433.61
+}
+Vehicle RVP_Display_52 : "{26013123314183EA}Prefabs/Vehicles/Wheeled/M923A1/M923A1_tanker_MERDC.et" {
+ coords 1066.95 37.67 2897.61
+}
+Vehicle RVP_Display_137 : "{270F23D61238ABC7}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_uncovered_CIV_brown.et" {
+ coords 1120.95 38.205 2447.61
+}
+Vehicle RVP_Display_64 : "{27E2E58E734A80EC}Prefabs/Vehicles/Wheeled/M998/M1025_MERDC.et" {
+ coords 1120.95 38.307 2627.61
+}
+Turret RVP_Display_172 : "{29F0CC704A582154}Prefabs/Weapons/Tripods/6T7/Tripod_6T7_NSV.et" {
+ coords 2180.95 52.603 2729.61
+}
+Vehicle RVP_Display_89 : "{2A66E3B8B0C61D87}Prefabs/Vehicles/Wheeled/S1203/S1203_cargo_brown.et" {
+ coords 1498.95 35.971 3041.61
+}
+Vehicle RVP_Display_51 : "{2BE1F8B9299B67C1}Prefabs/Vehicles/Wheeled/M923A1/M923A1_tanker.et" {
+ coords 1066.95 39.391 2753.61
+}
+Vehicle RVP_Display_45 : "{2D74C39A650A3030}Prefabs/Vehicles/Wheeled/M923A1/M923A1_engineer.et" {
+ coords 1102.95 37.858 2879.61
+}
+Vehicle RVP_Display_15 : "{3133602B406D131C}Prefabs/Vehicles/Helicopters/UH1H/UH1H_armed_gunship_HEDP_sharkNose.et" {
+ coords 1420.95 38.233 2885.61
+}
+Vehicle RVP_Display_81 : "{321016E0F9361A22}Prefabs/Vehicles/Wheeled/S105/S105_lightgreen.et" {
+ coords 1480.95 35.503 3059.61
+}
+Vehicle RVP_Display_144 : "{32E77EC32ED2B6D1}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_Arsenal.et" {
+ coords 1624.95 38.507 2897.61
+}
+Vehicle RVP_Display_142 : "{3336BE330C4F355B}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_ammo.et" {
+ coords 1624.95 40.129 2483.61
+}
+Vehicle RVP_Display_156 : "{34178E3A92776DA6}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_repair_FIA.et" {
+ coords 1642.95 37.496 2609.61
+}
+Vehicle RVP_Display_13 : "{350492BE6F09A847}Prefabs/Vehicles/Helicopters/UH1H/UH1H_armed_gunship_HE_sharkNose.et" {
+ coords 1366.95 38.233 2867.61
+}
+Vehicle RVP_Display_43 : "{36BDCC88B17B3BFA}Prefabs/Vehicles/Wheeled/M923A1/M923A1_command.et" {
+ coords 1102.95 39.455 2753.61
+}
+Vehicle RVP_Display_46 : "{37A9871AD4CC9610}Prefabs/Vehicles/Wheeled/M923A1/M923A1_engineer_MERDC.et" {
+ coords 1084.95 39.501 2753.61
+}
+Vehicle RVP_Display_44 : "{38186F12F27A61C6}Prefabs/Vehicles/Wheeled/M923A1/M923A1_command_MERDC.et" {
+ coords 1102.95 38.507 2771.61
+}
+$grp Projectile : "{38BAE094333E31BF}Prefabs/Weapons/Ammo/Ammo_Shell_81mm_HE_M821.et" {
+ RVP_MortarSupply_0 {
+  coords 2162.95 51.541 2735.61
+ }
+ RVP_MortarSupply_1 {
+  coords 2144.95 51.172 2715.61
+ }
+ RVP_MortarSupply_2 {
+  coords 2162.95 52.164 2713.61
+ }
+ RVP_MortarSupply_3 {
+  coords 2180.95 53.157 2711.61
+ }
+}
+Vehicle RVP_Display_66 : "{3B1EB924602C7A07}Prefabs/Vehicles/Wheeled/M998/M997_maxi_ambulance_MERDC.et" {
+ coords 1012.95 39.879 2735.61
+}
+Vehicle RVP_Display_2 : "{3C6B3ED0C3AC30D5}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT_armed_gunship_HE.et" {
+ coords 1060.95 38.149 2795.61
+}
+Turret RVP_Display_173 : "{3EA26CFD7A202636}Prefabs/Weapons/Tripods/6T7/Tripod_6T7_NSV_SPP.et" {
+ coords 2144.95 50.733 2747.61
+}
+Vehicle RVP_Display_62 : "{3EA6F47D95867114}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB.et" {
+ coords 1030.95 37.952 2789.61
+}
+Vehicle RVP_Display_58 : "{3F2AA823B6C65E1E}Prefabs/Vehicles/Wheeled/M923A1/M923A1_transport_MERDC.et" {
+ coords 1138.95 38.55 2645.61
+}
+Vehicle RVP_Display_143 : "{3F5D19AC3C7E20DC}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_ammo_FIA.et" {
+ coords 1624.95 37.658 2771.61
+}
+Vehicle RVP_Display_27 : "{428B2BC55F1628E0}Prefabs/Vehicles/Wheeled/Conflict_Variants/M1025_armed_M2HB_Conflict.et" {
+ coords 1246.95 37.529 2843.61
+}
+Vehicle RVP_Display_103 : "{43C4AF1EEBD001CE}Prefabs/Vehicles/Wheeled/UAZ452/UAZ452_ambulance.et" {
+ coords 904.954 38.978 2825.61
+}
+Vehicle RVP_Display_20 : "{442939C9617DF228}Prefabs/Vehicles/Wheeled/BRDM2/BRDM2_FIA.et" {
+ coords 1434.95 38.09 2857.61
+}
+Vehicle RVP_Display_141 : "{4597626AF36C0858}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320.et" {
+ coords 1624.95 40.667 2447.61
+}
+Vehicle RVP_Display_35 : "{47D94E1193A88497}Prefabs/Vehicles/Wheeled/M151A2/M151A2_transport.et" {
+ coords 1318.95 38.064 2807.61
+}
+Vehicle RVP_Display_55 : "{48A6D4372444B85A}Prefabs/Vehicles/Wheeled/M923A1/M923A1_transport_covered_closed.et" {
+ coords 1048.95 37.92 2915.61
+}
+Vehicle RVP_Display_99 : "{49C909AFD66E90A1}Prefabs/Vehicles/Wheeled/S1203/S1203_transport_randomized.et" {
+ coords 922.954 39.049 2789.61
+}
+Vehicle RVP_Display_158 : "{4A59DAEFE645E8A0}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_tanker_CIV_orange.et" {
+ coords 1642.95 38.721 2897.61
+}
+Vehicle RVP_Display_61 : "{4A71F755A4513227}Prefabs/Vehicles/Wheeled/M998/M1025.et" {
+ coords 1030.95 37.952 2771.61
+}
+$grp GenericEntity : "{4B94AD7F5B4055DF}Prefabs/Weapons/Ammo/Shell_81mm_Charge_Ring.et" {
+ RVP_MortarSupply_28 {
+  coords 2176.95 52.257 2735.61
+ }
+ RVP_MortarSupply_29 {
+  coords 2158.95 51.865 2715.61
+ }
+ RVP_MortarSupply_30 {
+  coords 2194.95 53.396 2731.61
+ }
+ RVP_MortarSupply_31 {
+  coords 2176.95 52.382 2729.61
+ }
+}
+Vehicle RVP_Display_102 : "{4C79EB5FADB89B7A}Prefabs/Vehicles/Wheeled/S1203/S1203_transport_yellow.et" {
+ coords 1552.95 38.209 2519.61
+}
+Vehicle RVP_Display_157 : "{4C81D7ED8F8C0D87}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_tanker.et" {
+ coords 1642.95 37.957 2627.61
+}
+Vehicle RVP_Display_124 : "{5070B3749C7782D8}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_covered_CIV_JZD.et" {
+ coords 1588.95 37.938 2933.61
+}
+Vehicle RVP_Display_33 : "{5168FEA3054D6D15}Prefabs/Vehicles/Wheeled/M151A2/M151A2_M2HB_MERDC.et" {
+ coords 1138.95 39.028 2753.61
+}
+Vehicle RVP_Display_95 : "{543799AC5C52989C}Prefabs/Vehicles/Wheeled/S1203/S1203_transport_beige.et" {
+ coords 1066.95 37.892 2537.61
+}
+Vehicle RVP_Display_74 : "{54C3CC22DEBD57BE}Prefabs/Vehicles/Wheeled/S105/S105_beige.et" {
+ coords 1462.95 38.018 2951.61
+}
+Vehicle RVP_Display_82 : "{5555DCAFADB8CE2A}Prefabs/Vehicles/Wheeled/S105/S105_rally.et" {
+ coords 1480.95 34.972 3077.61
+}
+Vehicle RVP_Display_72 : "{5674FAEB9AB7BDD0}Prefabs/Vehicles/Wheeled/M998/M998_uncovered.et" {
+ coords 1462.95 38.667 2717.61
+}
+Vehicle RVP_Display_91 : "{5729759DD092B0F7}Prefabs/Vehicles/Wheeled/S1203/S1203_cargo_randomized.et" {
+ coords 1066.95 37.711 2555.61
+}
+Vehicle RVP_Display_126 : "{57A441224AC02CF3}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_covered_CIV_Randomized.et" {
+ coords 1552.95 40.094 2465.61
+}
+GenericEntity RVP_EnemyStructure_3 : "{57D197AC8D11E283}Prefabs/Compositions/Misc/SubCompositions/Tents/Tent_Supply_Medium_USSR_01.et" {
+ coords 2465.95 88.438 1407.61
+ angles 0 0 0
+}
+Vehicle RVP_Display_25 : "{590E677BBCD1D26E}Prefabs/Vehicles/Wheeled/Conflict_Variants/LAV25_Conflict.et" {
+ coords 1362.95 37.931 2911.61
+}
+Vehicle RVP_Display_139 : "{599DFCA424399DBF}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_uncovered_CIV_red.et" {
+ coords 1588.95 40.221 2447.61
+}
+SCR_SpawnPoint RVP_Spawn : "{5A2220DD0C16958B}Prefabs/MP/Spawning/SpawnPoint_US.et" {
+ coords 1196.954 38.12 2831.606
+}
+Vehicle RVP_Display_112 : "{5B8446E5EA3372D7}Prefabs/Vehicles/Wheeled/UAZ452/UAZ452_cargo_USSR_VAI.et" {
+ coords 886.954 38.905 2879.61
+}
+Vehicle RVP_Display_111 : "{5F5AAFE8465D9D62}Prefabs/Vehicles/Wheeled/UAZ452/UAZ452_cargo_FIA.et" {
+ coords 1570.95 38.296 2519.61
+}
+StaticModelEntity RVP_EnemyStructure_4 : "{605A7848CB4D361A}Prefabs/Compositions/Misc/SubCompositions/Fortifications/Sandbag_Bunker_Camouflaged_USSR_01.et" {
+ coords 2480.95 80.725 1615.61
+}
+GenericEntity RVP_EnemyStructure_1 : "{607E00F1C367D129}Prefabs/Compositions/Misc/SubCompositions/Tents/Tent_Barracks_USSR_01.et" {
+ coords 2415.95 88.867 1369.61
+}
+Vehicle RVP_Display_85 : "{63880E311299A016}Prefabs/Vehicles/Wheeled/S105/S105_white.et" {
+ coords 958.954 40.125 2717.61
+}
+Vehicle RVP_Display_167 : "{66241E0CEDFCEDFF}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_transport_covered_CIV_orange.et" {
+ coords 1624.95 40.329 2411.61
+}
+Vehicle RVP_Display_88 : "{6AF3A89263D26CD8}Prefabs/Vehicles/Wheeled/S1203/S1203_cargo_blue.et" {
+ coords 1498.95 36.269 3023.61
+}
+Vehicle RVP_Display_73 : "{6B24D5AFD884D64C}Prefabs/Vehicles/Wheeled/M998/M998_uncovered_MERDC.et" {
+ coords 994.954 40.052 2735.61
+}
+Vehicle RVP_Display_154 : "{6C9E196676394DE2}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_FIA_transport_covered_closed.et" {
+ coords 1642.95 40.737 2465.61
+}
+Vehicle RVP_Display_92 : "{6E485048122CEEEE}Prefabs/Vehicles/Wheeled/S1203/S1203_cargo_red.et" {
+ coords 1516.95 38.501 2717.61
+}
+Vehicle RVP_Display_147 : "{6E9142CD2471741C}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_engineer.et" {
+ coords 1156.95 38.442 2429.61
+}
+Vehicle RVP_Display_8 : "{70BAEEFC2D3FEE64}Prefabs/Vehicles/Helicopters/UH1H/UH1H.et" {
+ coords 916.954 39.233 2867.61
+}
+Vehicle RVP_Display_90 : "{70DFE5F50B4DC70B}Prefabs/Vehicles/Wheeled/S1203/S1203_cargo_FIA.et" {
+ coords 1048.95 37.93 2555.61
+}
+Turret RVP_Display_174 : "{723870DBB19D30B0}Prefabs/Weapons/Tripods/Tripod_6T5_PKM.et" {
+ coords 2180.95 52.333 2747.61
+}
+Turret RVP_Display_176 : "{73530808E4B455BA}Prefabs/Weapons/Tripods/Tripod_M3_M2HB.et" {
+ coords 2162.95 51.82 2765.61
+}
+Vehicle RVP_Display_70 : "{751AFEEA19DDFB04}Prefabs/Vehicles/Wheeled/M998/M998_covered_long_MERDC.et" {
+ coords 1462.95 38.32 2699.61
+}
+Vehicle RVP_Display_110 : "{767D49C35F87DC1A}Prefabs/Vehicles/Wheeled/UAZ452/UAZ452_cargo_CIV_randomized.et" {
+ coords 1570.95 38.95 2501.61
+}
+Vehicle RVP_Display_115 : "{780FA841BFE4077F}Prefabs/Vehicles/Wheeled/UAZ452/UAZ452_transport_CIV_grey.et" {
+ coords 1102.95 38.085 2483.61
+}
+Vehicle RVP_Display_17 : "{7A29940A71EF5F5C}Prefabs/Vehicles/Helicopters/UH1H/UH1H_civ_livery_v1.et" {
+ coords 754.954 39.233 2759.61
+}
+Vehicle RVP_Display_0 : "{7BD282AF716ED639}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT_armed.et" {
+ coords 1114.95 38.149 2813.61
+}
+Vehicle RVP_Display_77 : "{8000A0F649FB4B0D}Prefabs/Vehicles/Wheeled/S105/S105_darkred.et" {
+ coords 976.954 40.234 2717.61
+}
+Turret RVP_Display_171 : "{8094D99689ABE241}Prefabs/Weapons/Mortars/M252/Mortar_M252.et" {
+ coords 2162.95 51.687 2729.61
+}
+Vehicle RVP_Display_5 : "{8175FCADFA2FB904}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT_unarmed_civ_red.et" {
+ coords 988.954 39.149 2777.61
+}
+Vehicle RVP_Display_54 : "{81FDAD5EB644CC3D}Prefabs/Vehicles/Wheeled/M923A1/M923A1_transport_covered.et" {
+ coords 1048.95 39.905 2735.61
+}
+$grp GenericEntity : "{84E8458C841C1808}Prefabs/Compositions/Misc/SubCompositions/Fortifications/Sandbag_Wall_USSR_01.et" {
+ RVP_EnemyStructure_6 {
+  coords 2386.95 87.314 1365.61
+  angles 0 0 0
+ }
+ RVP_EnemyStructure_7 {
+  coords 2591.95 69.021 1645.61
+  angles 0 0 0
+ }
+}
+Vehicle RVP_Display_84 : "{85F0BD6AF0F42D6D}Prefabs/Vehicles/Wheeled/S105/S105_red.et" {
+ coords 1498.95 38.518 2699.61
+}
+Vehicle RVP_Display_34 : "{86D830868F026D54}Prefabs/Vehicles/Wheeled/M151A2/M151A2_MERDC.et" {
+ coords 1138.95 37.874 2789.61
+}
+Vehicle RVP_Display_128 : "{870EB660433857D3}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_covered_CIV_teal.et" {
+ coords 1588.95 39.637 2465.61
+}
+Turret RVP_Display_175 : "{887DB60486A18575}Prefabs/Weapons/Tripods/Tripod_M122_MG_M60.et" {
+ coords 2144.95 51.333 2765.61
+}
+Vehicle RVP_Display_80 : "{8EB38BBD860DA06E}Prefabs/Vehicles/Wheeled/S105/S105_lightblue.et" {
+ coords 1480.95 38.018 2951.61
+}
+Vehicle RVP_Display_39 : "{92264FF932676C13}Prefabs/Vehicles/Wheeled/M923A1/M923A1_ammo.et" {
+ coords 1336.95 37.858 2861.61
+}
+Vehicle RVP_Display_36 : "{94DE32169691AC34}Prefabs/Vehicles/Wheeled/M151A2/M151A2_transport_MERDC.et" {
+ coords 1318.95 38.083 2825.61
+}
+SCR_LoadoutManager RVP_Loadouts : "{97EF4C1A41F63DDB}Prefabs/MP/Managers/Loadouts/LoadoutManager_USxUSSR.et" {
+ coords 1196.954 38.12 2831.606
+}
+Vehicle RVP_Display_1 : "{98225ED6D5F724D7}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT_armed_gunship_empty.et" {
+ coords 1150.95 38.149 2831.61
+}
+$grp Projectile : "{98EC9C526AFBA282}Prefabs/Weapons/Ammo/Ammo_Shell_82mm_HE_O832DU.et" {
+ RVP_MortarSupply_16 {
+  coords 2170.95 51.961 2735.61
+ }
+ RVP_MortarSupply_17 {
+  coords 2152.95 51.086 2733.61
+ }
+ RVP_MortarSupply_18 {
+  coords 2188.95 53.544 2713.61
+ }
+ RVP_MortarSupply_19 {
+  coords 2188.95 53.107 2729.61
+ }
+}
+Vehicle RVP_Display_38 : "{9A0D72816DFFDB7F}Prefabs/Vehicles/Wheeled/M923A1/M923A1.et" {
+ coords 1120.95 38.47 2771.61
+}
+Vehicle RVP_Display_69 : "{9B1BF9644E0378D6}Prefabs/Vehicles/Wheeled/M998/M998_covered_long.et" {
+ coords 1120.95 38.813 2609.61
+}
+Vehicle RVP_Display_136 : "{9B3A89DD33FF0483}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_uncovered_CIV_blue.et" {
+ coords 1606.95 38.115 2933.61
+}
+Vehicle RVP_Display_78 : "{9B6708D7E9950488}Prefabs/Vehicles/Wheeled/S105/S105_FIA.et" {
+ coords 976.954 40.437 2735.61
+}
+Vehicle RVP_Display_75 : "{9C3269FB43F989A3}Prefabs/Vehicles/Wheeled/S105/S105_darkblue.et" {
+ coords 1102.95 39.006 2591.61
+}
+Vehicle RVP_Display_168 : "{9DD4FD3527CB46C8}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_transport_covered_closed.et" {
+ coords 1660.95 39.834 2645.61
+}
+Vehicle RVP_Display_49 : "{A042ACE5C2B13206}Prefabs/Vehicles/Wheeled/M923A1/M923A1_repair.et" {
+ coords 1084.95 37.971 2915.61
+}
+Vehicle RVP_Display_105 : "{A0B58E7DDF51D486}Prefabs/Vehicles/Wheeled/UAZ452/UAZ452_ambulance_USSR_VAI.et" {
+ coords 1552.95 37.946 2897.61
+}
+Vehicle RVP_Display_76 : "{A1CD41DFE0C93CAD}Prefabs/Vehicles/Wheeled/S105/S105_darkbrown.et" {
+ coords 1480.95 38.581 2699.61
+}
+Vehicle RVP_Display_114 : "{A2C4DBCDDE967600}Prefabs/Vehicles/Wheeled/UAZ452/UAZ452_transport_CIV_blue.et" {
+ coords 1570.95 37.946 2897.61
+}
+Vehicle RVP_Display_109 : "{A2E8114A16D3F822}Prefabs/Vehicles/Wheeled/UAZ452/UAZ452_cargo_CIV_orange.et" {
+ coords 1552.95 38.792 2501.61
+}
+Vehicle RVP_Display_59 : "{A3786C5C8687F004}Prefabs/Vehicles/Wheeled/M923A1/M923A1_transport_MERDC_filled.et" {
+ coords 1156.95 39.346 2645.61
+}
+Vehicle RVP_Display_127 : "{A4D16A62B432451A}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_covered_CIV_red.et" {
+ coords 1570.95 39.829 2465.61
+}
+$grp Projectile : "{A544A2C131DE2C64}Prefabs/Weapons/Ammo/Ammo_Shell_82mm_Smoke_D832DU.et" {
+ RVP_MortarSupply_24 {
+  coords 2174.95 52.639 2717.61
+ }
+ RVP_MortarSupply_25 {
+  coords 2192.95 53.733 2715.61
+ }
+ RVP_MortarSupply_26 {
+  coords 2156.95 51.306 2731.61
+ }
+ RVP_MortarSupply_27 {
+  coords 2174.95 52.843 2711.61
+ }
+}
+Vehicle RVP_Display_155 : "{A5647958579A4149}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_repair.et" {
+ coords 1642.95 40.389 2483.61
+}
+Vehicle RVP_Display_26 : "{A6AD5417A030CC67}Prefabs/Vehicles/Wheeled/Conflict_Variants/LAV25_MERDC_Conflict.et" {
+ coords 1380.95 37.962 2911.61
+}
+Vehicle RVP_Display_86 : "{A6B0D2923262E755}Prefabs/Vehicles/Wheeled/S105/S105_yellow.et" {
+ coords 958.954 39.331 2753.61
+}
+Vehicle RVP_Display_4 : "{AB9ED3A33EE1B630}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT_unarmed_civ_blue.et" {
+ coords 1222.95 38.18 2813.61
+}
+Vehicle RVP_Display_97 : "{ACED839A6C5BE657}Prefabs/Vehicles/Wheeled/S1203/S1203_transport_brown.et" {
+ coords 1534.95 38.501 2717.61
+}
+Vehicle RVP_Display_79 : "{AD80FB47D868C775}Prefabs/Vehicles/Wheeled/S105/S105_green.et" {
+ coords 1480.95 38.018 2933.61
+}
+Vehicle RVP_Display_71 : "{AF0578D66D51946B}Prefabs/Vehicles/Wheeled/M998/M998_covered_MERDC.et" {
+ coords 994.954 40.034 2717.61
+}
+Vehicle RVP_Display_28 : "{B0DB416052438E48}Prefabs/Vehicles/Wheeled/Conflict_Variants/M1025_armed_M2HB_MERDC_Conflict.et" {
+ coords 1246.95 38.046 2789.61
+}
+Vehicle RVP_Display_129 : "{B2CC137FE424B129}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_covered_CIV_VAK.et" {
+ coords 1606.95 39.988 2465.61
+}
+Vehicle RVP_Display_149 : "{B36056D3A35C1DED}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_engineer_filled.et" {
+ coords 1192.95 38.817 2429.61
+}
+Vehicle RVP_Display_159 : "{B3C8EC88E7782C78}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_tanker_CIV_pohona.et" {
+ coords 1642.95 38.658 2915.61
+}
+Vehicle RVP_Display_22 : "{B47110AA1A806556}Prefabs/Vehicles/Wheeled/BTR70/BTR70_FIA.et" {
+ coords 1470.95 38.008 2857.61
+}
+Vehicle RVP_Display_145 : "{B4A106DB440071C8}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_Arsenal_FIA.et" {
+ coords 1624.95 38.344 2915.61
+}
+Vehicle RVP_Display_68 : "{B55C6990A6A9411B}Prefabs/Vehicles/Wheeled/M998/M998_covered.et" {
+ coords 1012.95 37.65 2609.61
+}
+Vehicle RVP_Display_123 : "{B6D330E7E40FE7DD}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_covered_CIV_forest.et" {
+ coords 1588.95 37.938 2915.61
+}
+Vehicle RVP_Display_153 : "{B70E6D12A8EC2410}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_FIA_transport_covered.et" {
+ coords 1642.95 40.801 2447.61
+}
+Vehicle RVP_Display_30 : "{B7A8BAA37CB0AC2B}Prefabs/Vehicles/Wheeled/LAV25/LAV25_MERDC.et" {
+ coords 1524.95 38.817 2749.61
+}
+Vehicle RVP_Display_169 : "{B845B8B82C76BA68}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_transport_filled.et" {
+ coords 796.954 38.721 2807.61
+}
+Vehicle RVP_Display_116 : "{BB84BDE1707A38EB}Prefabs/Vehicles/Wheeled/UAZ452/UAZ452_transport_CIV_orange.et" {
+ coords 1552.95 39.755 2483.61
+}
+Vehicle RVP_Display_24 : "{BD75A18920BD1278}Prefabs/Vehicles/Wheeled/Conflict_Variants/BTR70_Conflict.et" {
+ coords 1506.95 37.783 2875.61
+}
+Vehicle RVP_Display_118 : "{BDE16A6AE9942D44}Prefabs/Vehicles/Wheeled/UAZ452/UAZ452_transport_FIA.et" {
+ coords 1588.95 39.365 2483.61
+}
+Vehicle RVP_Display_11 : "{BDE43262FC05B4D7}Prefabs/Vehicles/Helicopters/UH1H/UH1H_armed_gunship_empty_sharkNose.et" {
+ coords 880.954 39.233 2849.61
+}
+Vehicle RVP_Display_125 : "{BDFB2377B6B4ABBB}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_covered_CIV_PTS.et" {
+ coords 1534.95 40.162 2465.61
+}
+$grp GenericEntity : "{BE99D77D1155B127}Prefabs/Props/Military/Arsenal/ArsenalBoxes/US/ArsenalBox_US.et" {
+ RVP_HubTerminal {
+  components {
+   ActionsManagerComponent "{56F2C6D1431ADB12}" {
+    additionalActions {
+     SCR_OpenStorageAction "{58EE8EA3E900BE40}" {
+      ParentContextList +{
+      }
+     }
+     RVP_OpenPanelAction "{6ABC11E7EC1FF029}" {
+      ParentContextList {
+       "default"
+      }
+     }
+    }
+   }
+  }
+  coords 1200.954 38.12 2831.606
+ }
+ RVP_Terminal_Ground {
+  components {
+   ActionsManagerComponent "{56F2C6D1431ADB12}" {
+    additionalActions {
+     SCR_OpenStorageAction "{58EE8EA3E900BE40}" {
+      ParentContextList +{
+      }
+     }
+     RVP_OpenPanelAction "{6ABC11E7EC1FD8ED}" {
+      ParentContextList {
+       "default"
+      }
+     }
+    }
+   }
+  }
+  coords 1231.954 37.949 2843.606
+ }
+ RVP_Terminal_Armor {
+  components {
+   ActionsManagerComponent "{56F2C6D1431ADB12}" {
+    additionalActions {
+     SCR_OpenStorageAction "{58EE8EA3E900BE40}" {
+      ParentContextList +{
+      }
+     }
+     RVP_OpenPanelAction "{6ABC11E7EC203291}" {
+      ParentContextList {
+       "default"
+      }
+     }
+    }
+   }
+  }
+  coords 1437.954 39.039 2839.606
+ }
+ RVP_Terminal_Helicopters {
+  components {
+   ActionsManagerComponent "{56F2C6D1431ADB12}" {
+    additionalActions {
+     SCR_OpenStorageAction "{58EE8EA3E900BE40}" {
+      ParentContextList +{
+      }
+     }
+     RVP_OpenPanelAction "{6ABC11E7EC200BB1}" {
+      ParentContextList {
+       "default"
+      }
+     }
+    }
+   }
+  }
+  coords 1117.954 38.12 2849.606
+ }
+ RVP_Terminal_FixedWing {
+  components {
+   ActionsManagerComponent "{56F2C6D1431ADB12}" {
+    additionalActions {
+     SCR_OpenStorageAction "{58EE8EA3E900BE40}" {
+      ParentContextList +{
+      }
+     }
+     RVP_OpenPanelAction "{6ABC11E7EC206330}" {
+      ParentContextList {
+       "default"
+      }
+     }
+    }
+   }
+  }
+  coords 1035.954 38.12 2811.606
+ }
+ RVP_Terminal_Weapons {
+  components {
+   ActionsManagerComponent "{56F2C6D1431ADB12}" {
+    additionalActions {
+     SCR_OpenStorageAction "{58EE8EA3E900BE40}" {
+      ParentContextList +{
+      }
+     }
+     RVP_OpenPanelAction "{6ABC11E7EC204170}" {
+      ParentContextList {
+       "default"
+      }
+     }
+    }
+   }
+  }
+  coords 2165.954 51.431 2747.606
+ }
+}
+Vehicle RVP_Display_21 : "{C012BB3488BEA0C2}Prefabs/Vehicles/Wheeled/BTR70/BTR70.et" {
+ coords 1452.95 38.108 2857.61
+}
+Vehicle RVP_Display_108 : "{C75DAB159B434B77}Prefabs/Vehicles/Wheeled/UAZ452/UAZ452_cargo_CIV_grey.et" {
+ coords 1534.95 38.261 2501.61
+}
+Vehicle RVP_Display_117 : "{C7CE8044B5E301F5}Prefabs/Vehicles/Wheeled/UAZ452/UAZ452_transport_CIV_randomized.et" {
+ coords 1570.95 39.648 2483.61
+}
+Vehicle RVP_Display_50 : "{C8656AECF5DF41D9}Prefabs/Vehicles/Wheeled/M923A1/M923A1_repair_MERDC.et" {
+ coords 1066.95 39.806 2735.61
+}
+$grp Projectile : "{C8A906FB198D1A33}Prefabs/Weapons/Ammo/Ammo_Shell_82mm_Illum_S832S.et" {
+ RVP_MortarSupply_20 {
+  coords 2154.95 51.626 2717.61
+ }
+ RVP_MortarSupply_21 {
+  coords 2190.95 53.135 2733.61
+ }
+ RVP_MortarSupply_22 {
+  coords 2172.95 52.135 2731.61
+ }
+ RVP_MortarSupply_23 {
+  coords 2154.95 51.845 2711.61
+ }
+}
+Vehicle RVP_Display_121 : "{C8B16ABCA57679A2}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_covered_CIV_blue.et" {
+ coords 1588.95 38.181 2879.61
+}
+Vehicle RVP_Display_14 : "{CB4D4CF7E887B2D0}Prefabs/Vehicles/Helicopters/UH1H/UH1H_armed_gunship_HEDP.et" {
+ coords 1402.95 38.635 2849.61
+}
+Vehicle RVP_Display_7 : "{CB6215B3B44EA463}Prefabs/Vehicles/Helicopters/UH1H/SP02_GUNSHIP.et" {
+ coords 1294.95 38.036 2849.61
+}
+Turret RVP_Display_170 : "{D1FFE458E8AC4BDB}Prefabs/Weapons/Mortars/2B14/Mortar_2B14.et" {
+ coords 2144.95 50.882 2729.61
+}
+Vehicle RVP_Display_87 : "{D2BCF98E80CF634C}Prefabs/Vehicles/Wheeled/S1203/S1203_cargo_beige.et" {
+ coords 958.954 39.184 2771.61
+}
+Vehicle RVP_Display_140 : "{D4855501D5B12AF2}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_uncovered_CIV_teal.et" {
+ coords 1606.95 40.561 2447.61
+}
+Vehicle RVP_Display_98 : "{D6C8D37EA81A3985}Prefabs/Vehicles/Wheeled/S1203/S1203_transport_FIA.et" {
+ coords 1534.95 38.526 2735.61
+}
+Vehicle RVP_Display_122 : "{D7C51A961BF675B2}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_covered_CIV_brown.et" {
+ coords 1588.95 37.932 2897.61
+}
+Vehicle RVP_Display_164 : "{D9B91FAB817A6033}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_transport_covered.et" {
+ coords 1192.95 38.517 2411.61
+}
+Vehicle RVP_Display_3 : "{DBEC63C9DEE4358C}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT_armed_gunship_HEDP.et" {
+ coords 1168.95 38.149 2795.61
+}
+Vehicle RVP_Display_151 : "{DC1C2350CF665F9E}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_FIA_tanker.et" {
+ coords 1606.95 40.426 2429.61
+}
+Vehicle RVP_Display_56 : "{DC21E543DF39D2C0}Prefabs/Vehicles/Wheeled/M923A1/M923A1_transport_covered_closed_MERDC.et" {
+ coords 1408.95 37.858 2915.61
+}
+Vehicle RVP_Display_160 : "{DCAF0585D17B917A}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_tanker_CIV_randomized.et" {
+ coords 1642.95 38.673 2933.61
+}
+$grp Projectile : "{DD2065AE34D8DFA9}Prefabs/Weapons/Ammo/Ammo_Shell_81mm_Illum_M853A1.et" {
+ RVP_MortarSupply_4 {
+  coords 2164.95 52.126 2717.61
+ }
+ RVP_MortarSupply_5 {
+  coords 2182.95 53.141 2715.61
+ }
+ RVP_MortarSupply_6 {
+  coords 2182.95 52.697 2731.61
+ }
+ RVP_MortarSupply_7 {
+  coords 2146.95 51.423 2711.61
+ }
+}
+$grp Projectile : "{DD6844AB03FDA84F}Prefabs/Weapons/Ammo/Ammo_Shell_81mm_Practice_M879.et" {
+ RVP_MortarSupply_8 {
+  coords 2148.95 51.317 2717.61
+ }
+ RVP_MortarSupply_9 {
+  coords 2166.95 51.786 2733.61
+ }
+ RVP_MortarSupply_10 {
+  coords 2148.95 50.911 2731.61
+ }
+ RVP_MortarSupply_11 {
+  coords 2166.95 52.442 2711.61
+ }
+}
+Vehicle RVP_Display_63 : "{DD774A8FD0989A78}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB_MERDC.et" {
+ coords 1426.95 37.873 2951.61
+}
+Vehicle RVP_Display_9 : "{DDDD9B51F1234DF3}Prefabs/Vehicles/Helicopters/UH1H/UH1H_armed.et" {
+ coords 1078.95 38.264 2615.61
+}
+Vehicle RVP_Display_6 : "{DF5CCB7C0FF049F4}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT_unarmed_transport.et" {
+ coords 934.954 39.149 2831.61
+}
+Vehicle RVP_Display_131 : "{E28501E93F8EFDC0}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_FIA_uncovered.et" {
+ coords 1606.95 38.946 2501.61
+}
+Vehicle RVP_Display_94 : "{E3AD3E9E60F2E061}Prefabs/Vehicles/Wheeled/S1203/S1203_cargo_yellow.et" {
+ coords 940.954 38.282 2897.61
+}
+Vehicle RVP_Display_119 : "{E4D645B1CE943EDF}Prefabs/Vehicles/Wheeled/UAZ452/UAZ452_transport_USSR_VAI.et" {
+ coords 1588.95 38.833 2501.61
+}
+Vehicle RVP_Display_93 : "{E5F73B9D4CEB94E4}Prefabs/Vehicles/Wheeled/S1203/S1203_cargo_white.et" {
+ coords 940.954 38.938 2789.61
+}
+Vehicle RVP_Display_150 : "{E6AEC014D162D686}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_FIA_command.et" {
+ coords 1588.95 40.34 2429.61
+}
+Vehicle RVP_Display_134 : "{E72D78E7F45532EC}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_UK59_FIA.et" {
+ coords 1606.95 38.021 2897.61
+}
+Vehicle RVP_Display_42 : "{EA4819E0745DFAEA}Prefabs/Vehicles/Wheeled/M923A1/M923A1_arsenal_MERDC.et" {
+ coords 1336.95 37.942 2897.61
+}
+Vehicle RVP_Display_40 : "{EC657C9B3C73E192}Prefabs/Vehicles/Wheeled/M923A1/M923A1_ammo_MERDC.et" {
+ coords 1120.95 37.858 2879.61
+}
+Vehicle RVP_Display_163 : "{EEAC3A94929A2B55}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_transport_CIV_randomized.et" {
+ coords 1174.95 38.125 2411.61
+}
+Vehicle RVP_Display_18 : "{EEE291940A9DA42A}Prefabs/Vehicles/Helicopters/UH1H/UH1H_sharkNose.et" {
+ coords 1474.95 38.233 2885.61
+}
+Vehicle RVP_Display_104 : "{F0EC3EFF70B174B0}Prefabs/Vehicles/Wheeled/UAZ452/UAZ452_ambulance_FIA.et" {
+ coords 1552.95 37.946 2879.61
+}
+Vehicle RVP_Display_53 : "{F1FBD0972FA5FE09}Prefabs/Vehicles/Wheeled/M923A1/M923A1_transport.et" {
+ coords 1066.95 37.985 2915.61
+}
+Vehicle RVP_Display_31 : "{F649585ABB3706C4}Prefabs/Vehicles/Wheeled/M151A2/M151A2.et" {
+ coords 1192.95 38.62 2771.61
+}
+Vehicle RVP_Display_165 : "{F66EAD0D2016B6BA}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_transport_covered_CIV_blue.et" {
+ coords 1210.95 38.721 2411.61
+}
+Vehicle RVP_Display_32 : "{F6B23D17D5067C11}Prefabs/Vehicles/Wheeled/M151A2/M151A2_M2HB.et" {
+ coords 1300.95 37.743 2879.61
+}
+Vehicle RVP_Display_96 : "{F77C41245A580FD1}Prefabs/Vehicles/Wheeled/S1203/S1203_transport_blue.et" {
+ coords 1084.95 37.9 2537.61
+}
+$grp Projectile : "{F7807293E94D3C88}Prefabs/Weapons/Ammo/Ammo_Shell_81mm_Smoke_M819.et" {
+ RVP_MortarSupply_12 {
+  coords 2186.95 53.314 2717.61
+ }
+ RVP_MortarSupply_13 {
+  coords 2168.95 52.408 2715.61
+ }
+ RVP_MortarSupply_14 {
+  coords 2150.95 51.564 2713.61
+ }
+ RVP_MortarSupply_15 {
+  coords 2168.95 51.97 2729.61
+ }
+}
+Vehicle RVP_Display_23 : "{F7B9B434FCFF00B3}Prefabs/Vehicles/Wheeled/Conflict_Variants/BRDM2_Conflict.et" {
+ coords 1380.95 38.75 2821.61
+}
+Vehicle RVP_Display_130 : "{F7E9AA0C813EABDA}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_FIA.et" {
+ coords 1606.95 39.667 2483.61
+}
+Vehicle RVP_Display_166 : "{FB219B49A448A8EA}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_transport_covered_CIV_JZD.et" {
+ coords 1228.95 38.721 2411.61
+}

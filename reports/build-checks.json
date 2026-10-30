@@ -1,0 +1,30 @@
+[
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-22",
+    "pc_validation_requested": true,
+    "script_errors": [],
+    "packaged_successfully": false
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-54-40",
+    "pc_validation_requested": false,
+    "script_errors": [],
+    "packaged_successfully": true
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-58-08",
+    "pc_validation_requested": false,
+    "script_errors": [],
+    "packaged_successfully": true
+  },
+  {
+    "profile": "profile-WCS",
+    "log": "logs_2026-10-30_02-55-19",
+    "pc_validation_requested": true,
+    "script_errors": [],
+    "packaged_successfully": false
+  }
+]

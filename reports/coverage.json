@@ -1,0 +1,18 @@
+{
+  "installed_addons_including_core": 236,
+  "third_party_addon_directories": 234,
+  "inspected_candidates_and_exclusions": 4058,
+  "vanilla_candidates": 174,
+  "vanilla_candidate_categories": {
+    "Helicopters": 19,
+    "Armor": 10,
+    "Ground": 138,
+    "Weapons": 7
+  },
+  "optional_candidates": 671,
+  "engine_resource_resolved": 177,
+  "placed": 174,
+  "interactively_tested": 0,
+  "archive_errors": [],
+  "status": "IMPLEMENTED; see verification.json for actual checks and limitations"
+}

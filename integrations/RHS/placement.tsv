@@ -1,0 +1,95 @@
+resource	category	status	position
+{B85406DF04F5E5F4}Prefabs/Vehicles/Helicopters/Mi8MT/MI8_cinematic.et	Helicopters	EDITOR_PLACED	1186.95 39.12 2381.61
+{5BF04078A1EC66D8}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MTT-A_Black_no_pylons.et	Helicopters	EDITOR_PLACED	1240.95 39.12 2381.61
+{4044EA2205AEADF0}Prefabs/Vehicles/Helicopters/UH1Y/UH1Y_Somehow_working.et	Helicopters	EDITOR_PLACED	1204.95 39.3837 2345.61
+{D8136D90BE12445F}Prefabs/Vehicles/Tracked/2S1/Tank_2S1.et	Armor	EDITOR_PLACED	1398.95 38.12 2875.61
+{52B13341B4A2F012}Prefabs/Vehicles/Tracked/2S1/Tank_2S1_Green.et	Armor	EDITOR_PLACED	1452.95 38.12 2875.61
+{48BB423641D40E77}Prefabs/Vehicles/Tracked/T14/Tank_T14.et	Armor	EDITOR_PLACED	1380.95 38.6846 2839.61
+{7837BB20A2A6B510}Prefabs/Vehicles/Tracked/T14/Tank_T14_OnlyFrags.et	Armor	EDITOR_PLACED	1398.95 38.12 2893.61
+{9057DDA3E3FAA03B}Prefabs/Vehicles/Tracked/T14/Tank_T14_camo.et	Armor	EDITOR_PLACED	1452.95 38.12 2893.61
+{9AEDF323A812F9ED}Prefabs/Vehicles/Wheeled/BRDM2/BRDM2_AFRF.et	Armor	EDITOR_PLACED	1470.95 38.12 2911.61
+{3CFCB80B822033CF}Prefabs/Vehicles/Wheeled/K17/APC_K17_Epoch_camoExpo.et	Ground	EDITOR_PLACED	1246.95 38.0073 2825.61
+{295A6AAFBE74C040}Prefabs/Vehicles/Wheeled/K17/APC_K17_Epoch_tan.et	Ground	EDITOR_PLACED	1246.95 38.1262 2807.61
+{137518B322EAA4D6}Prefabs/Vehicles/Wheeled/K17/APC_K17_Kord.et	Ground	EDITOR_PLACED	1192.95 38.2348 2789.61
+{0C139EE580E03990}Prefabs/Vehicles/Wheeled/K17/APC_K17_unarmed_tan.et	Ground	EDITOR_PLACED	1228.95 38.495 2789.61
+{78E9F4C87A36268F}Prefabs/Vehicles/Wheeled/K17/Turret_K17_Berezok.et	Ground	EDITOR_PLACED	1174.95 38.12 2825.61
+{70539CAB1DC1A68D}Prefabs/Vehicles/Wheeled/K17/Turret_K17_Berezok_camo1.et	Ground	EDITOR_PLACED	1174.95 38.7071 2771.61
+{7150F81B3D0E0F44}Prefabs/Vehicles/Wheeled/K17/Turret_K17_Berezok_tan.et	Ground	EDITOR_PLACED	1138.95 38.12 2807.61
+{51D998E54BD87171}Prefabs/Vehicles/Wheeled/K17/Turret_K17_Commander.et	Ground	EDITOR_PLACED	1318.95 38.0724 2843.61
+{3AD94A109C91973B}Prefabs/Vehicles/Wheeled/K17/Turret_K17_CommanderBerezhok.et	Ground	EDITOR_PLACED	1318.95 37.9162 2861.61
+{4B6FBF638CA45303}Prefabs/Vehicles/Wheeled/K17/Turret_K17_Commander_camo1.et	Ground	EDITOR_PLACED	1120.95 38.12 2789.61
+{79B99B6AA04F1B68}Prefabs/Vehicles/Wheeled/K17/Turret_K17_Commander_camoExpo.et	Ground	EDITOR_PLACED	1336.95 38.7523 2807.61
+{36185909A0E80C91}Prefabs/Vehicles/Wheeled/K17/Turret_K17_Commander_tan.et	Ground	ON_DEMAND	
+{AB12F630BD71DBB1}Prefabs/Vehicles/Wheeled/K17/Turret_K17_Epoch.et	Ground	ON_DEMAND	
+{DC0549A996F7761E}Prefabs/Vehicles/Wheeled/K17/Turret_K17_Epoch_camo1.et	Ground	ON_DEMAND	
+{CFDD5F417A759485}Prefabs/Vehicles/Wheeled/K17/Turret_K17_Epoch_camo_expo.et	Ground	ON_DEMAND	
+{2368CF0434CE7451}Prefabs/Vehicles/Wheeled/K17/Turret_K17_Epoch_tan.et	Ground	ON_DEMAND	
+{E836092AB606CE4A}Prefabs/Vehicles/Wheeled/K4386/K4386_Armed_Tan.et	Ground	ON_DEMAND	
+{A53F4D3BB9DC85D4}Prefabs/Vehicles/Wheeled/K4386/K4386_RG.et	Ground	ON_DEMAND	
+{93953D1ABAEE7D85}Prefabs/Vehicles/Wheeled/K4386/K4386_Tan.et	Ground	ON_DEMAND	
+{D3C085601EBAD25A}Prefabs/Vehicles/Wheeled/M11xx/Car_M1151.et	Ground	ON_DEMAND	
+{CD1B5570AF3D50B6}Prefabs/Vehicles/Wheeled/M998/M1025_ION.et	Ground	ON_DEMAND	
+{053040D358C1DC44}Prefabs/Vehicles/Wheeled/M998/M1025_ION_armed_m2hb.et	Ground	ON_DEMAND	
+{BC58478FE724BCEF}Prefabs/Vehicles/Wheeled/M998/M1025_USAF_D.et	Ground	ON_DEMAND	
+{FA6820A9A52CD05B}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB_MDO_USAF.et	Ground	ON_DEMAND	
+{818BD2D100635224}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB_MDO_USAF_D.et	Ground	ON_DEMAND	
+{ABAB219273966558}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB_PAS13G_USAF.et	Ground	ON_DEMAND	
+{7BC9C79CD8FD8CE7}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB_PAS13G_USAF_D.et	Ground	ON_DEMAND	
+{5E1DC2C51D589FC6}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB_su231c_USAF.et	Ground	ON_DEMAND	
+{FD6C3FAC03F8E761}Prefabs/Vehicles/Wheeled/M998/M997_maxi_ambulance_USAF_D.et	Ground	ON_DEMAND	
+{B4FB836E882E1A05}Prefabs/Vehicles/Wheeled/M998/M998_USAF.et	Ground	ON_DEMAND	
+{7B38CEFED1D908A1}Prefabs/Vehicles/Wheeled/M998/M998_USAF_D.et	Ground	ON_DEMAND	
+{3F5936DB9D87969C}Prefabs/Vehicles/Wheeled/M998/M998_covered_USAF_D.et	Ground	ON_DEMAND	
+{7D9A9AD859069D09}Prefabs/Vehicles/Wheeled/M998/M998_covered_long_USAF_D.et	Ground	ON_DEMAND	
+{5576D445B1D5F429}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_Arsenal_camo1.et	Ground	ON_DEMAND	
+{A237F9817A6ADB17}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_Arsenal_tan.et	Ground	ON_DEMAND	
+{F49398F8182A0551}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_TESTBEB.et	Ground	ON_DEMAND	
+{677628B9FB43F83D}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_ammo_camo1.et	Ground	ON_DEMAND	
+{29CBE6F602148A03}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_ammo_tan.et	Ground	ON_DEMAND	
+{76C687EA8C6E953F}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_camo1.et	Ground	ON_DEMAND	
+{2C95509CA3E61DE1}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_command_camo1.et	Ground	ON_DEMAND	
+{F0383F4EEF087C59}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_command_tan.et	Ground	ON_DEMAND	
+{323B9051ED5C2F7A}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_engineer_camo1.et	Ground	ON_DEMAND	
+{11FDCC4A59497A58}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_engineer_tan.et	Ground	ON_DEMAND	
+{BED355ED51A1E859}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_repair_camo1.et	Ground	ON_DEMAND	
+{22817160AC1DC779}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_repair_tan.et	Ground	ON_DEMAND	
+{3CEF032AD304EB72}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_tan.et	Ground	ON_DEMAND	
+{13139B95B13DDA35}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_tanker_camo1.et	Ground	ON_DEMAND	
+{CA8ADC0AF10CF541}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_tanker_tan.et	Ground	ON_DEMAND	
+{2CCD539A7AB35B2F}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_transport_camo1.et	Ground	ON_DEMAND	
+{2B15F98903994DA3}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_transport_covered_camo1.et	Ground	ON_DEMAND	
+{00AED68EFBF251BA}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_transport_covered_closed_camo1.et	Ground	ON_DEMAND	
+{A3741E4872E3D2EC}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_transport_covered_closed_tan.et	Ground	ON_DEMAND	
+{78E46A3CAC36BB1E}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_transport_covered_tan.et	Ground	ON_DEMAND	
+{0075D36080C56819}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_transport_tan.et	Ground	ON_DEMAND	
+{03D9932135924AEF}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_Camo_uncovered.et	Ground	ON_DEMAND	
+{123595894023C474}Prefabs/Vehicles/Wheeled/LAV25/LAV25_RHS_D.et	Armor	ON_DEMAND	
+{1DF4C30C130D8FAD}Prefabs/Vehicles/Wheeled/K4386/K4386_Armed_Camo.et	Ground	ON_DEMAND	
+{23FB589C8BF6EC6E}Prefabs/Vehicles/Wheeled/M998/M998_covered_long_USAF.et	Ground	ON_DEMAND	
+{31F0866273C46D76}Prefabs/Vehicles/Wheeled/K17/APC_K17_Berezok.et	Ground	ON_DEMAND	
+{3277F8B1FA06A2BC}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB_USAF.et	Ground	ON_DEMAND	
+{3312ADBF53A16DD8}Prefabs/Vehicles/Wheeled/LAV25/LAV25_RHS.et	Armor	ON_DEMAND	
+{3918E80DF5393F8C}Prefabs/Vehicles/Wheeled/K17/APC_K17_Epoch_camo1.et	Ground	ON_DEMAND	
+{3B899AC9449C35F0}Prefabs/Vehicles/Wheeled/K17/APC_K17_unarmed.et	Ground	ON_DEMAND	
+{447CFE8D73F95C3E}Prefabs/Vehicles/Wheeled/BTR70/BTR70_AFRF.et	Armor	ON_DEMAND	
+{4A465E25A866520E}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MTT-A_Black.et	Helicopters	ON_DEMAND	
+{4E3A86638BFF9FC6}Prefabs/Vehicles/Wheeled/M998/M997_maxi_ambulance_USAF.et	Ground	ON_DEMAND	
+{59103017F394001A}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB_ION_D.et	Ground	ON_DEMAND	
+{80C975F8482DEE97}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT_armed_black.et	Helicopters	ON_DEMAND	
+{855C78199FBCC53A}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB_ION_Camo.et	Ground	ON_DEMAND	
+{923F0A979CE79ACD}Prefabs/Vehicles/Wheeled/M998/M998_covered_USAF.et	Ground	ON_DEMAND	
+{944D59BF5EC046D6}Prefabs/Vehicles/Wheeled/K17/APC_K17_Berezok_tan.et	Ground	ON_DEMAND	
+{950336877FC8B604}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB_ION.et	Ground	ON_DEMAND	
+{950336877FC8B605}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB_MDO_ION.et	Ground	ON_DEMAND	
+{9BF596A3464B6DB8}Prefabs/Vehicles/Wheeled/K4386/K4386_Camo.et	Ground	ON_DEMAND	
+{A61E5C16E9A2161A}Prefabs/Vehicles/Wheeled/K4386/K4386.et	Ground	ON_DEMAND	
+{AB5DE68E3E654FCA}Prefabs/Vehicles/Wheeled/K4386/K4386_Armed.et	Ground	ON_DEMAND	
+{B8C827A45C1347A4}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB_USAF_D.et	Ground	ON_DEMAND	
+{CC55611936C21F25}Prefabs/Vehicles/Wheeled/M998/M1025_USAF.et	Ground	ON_DEMAND	
+{DB5CE10CC310B826}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB_MDO_ION_Camo.et	Ground	ON_DEMAND	
+{DC6A0BC75B198106}Prefabs/Vehicles/Wheeled/K17/APC_K17_unarmed_camo1.et	Ground	ON_DEMAND	
+{DD0CB0331A3D8CA7}Prefabs/Vehicles/Wheeled/K17/APC_K17_Berezok_camo1.et	Ground	ON_DEMAND	
+{DD20465C217BB8BF}Prefabs/Vehicles/Wheeled/K17/APC_K17_unarmed_camoExpo.et	Ground	ON_DEMAND	
+{E1A99B5F2DC9B38A}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_Camo.et	Ground	ON_DEMAND	
+{F8510317523D6B46}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB_MDO_ION_D.et	Ground	ON_DEMAND	
+{F86AB1BD36B33407}Prefabs/Vehicles/Wheeled/K17/APC_K17_Epoch.et	Ground	ON_DEMAND	

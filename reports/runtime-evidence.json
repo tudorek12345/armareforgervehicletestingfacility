@@ -1,0 +1,1017 @@
+[
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:27.788  SCRIPT       : RVP PLAYCHECK: entered game mode $ReforgerVehiclePlayground:Worlds/VehiclePlayground.ent"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:29.097 SCRIPT       : RVP: 177 unique mounted catalog/fallback assets"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:29.098 SCRIPT       : RVP: playground ready. Use the arsenal hub's playground action."
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.067 SCRIPT       : RVP PLAYCHECK: player=SCR_ChimeraCharacter<0x00000203AC09EE30> @\"ENTITY:4611686018427399873\" ('SCR_ChimeraCharacter','Assets/Characters/Basebody/Basebody_Male_01.xob') at <1196.088013 38.000000 2831.105957> @\"{61DA6CADADBEFF80}Prefabs/Characters/Campaign/Final/BLUFOR/US_army/Regular/Campaign_US_Player_MG.et\" controllableCharacter=1 controller=1 bakedDisplayEntities=177"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.067 SCRIPT       : RVP PLAYCHECK: player position 1196.09 38 2831.11"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.078 SCRIPT       : RVP PLAYCHECK: native panel object=1"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.078 SCRIPT       : RVP PLAYCHECK: panel closed; normal player input restored"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.078 SCRIPT       : RVP PLAYCHECK: sample=0 position=<1114.95,38.149,2813.61> yawPitchRoll=<0,0,0>"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.078 SCRIPT       : RVP PLAYCHECK: sample=19 position=<1452.94,38.8917,2839.66> yawPitchRoll=<-0.0560308,-1.16548,0.466609>"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.078 SCRIPT       : RVP PLAYCHECK: sample=30 position=<1524.94,38.9698,2749.57> yawPitchRoll=<-0.0283709,1.19628,0.956647>"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.078 SCRIPT       : RVP PLAYCHECK: sample=120 position=<868.964,40.1636,2807.62> yawPitchRoll=<0.0570808,-1.17945,-1.21899>"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.078 SCRIPT       : RVP ENTRY: sample=0 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.078 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.078 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.078 SCRIPT       : RVP ENTRY: sample=0 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.078 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.078 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.078 SCRIPT       : RVP ENTRY: sample=0 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.078 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.078 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.078 SCRIPT       : RVP ENTRY: sample=0 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.078 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.078 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.078 SCRIPT       : RVP ENTRY: sample=0 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.078 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.078 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.086 SCRIPT       : RVP ENTRY: sample=0 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.086 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.086 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.086 SCRIPT       : RVP ENTRY: sample=0 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.086 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.086 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.086 SCRIPT       : RVP ENTRY: sample=0 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.086 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.086 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.086 SCRIPT       : RVP ENTRY: sample=0 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.086 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.086 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.086 SCRIPT       : RVP ENTRY: sample=0 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.086 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.086 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.086 SCRIPT       : RVP ENTRY: sample=0 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.086 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.087 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.087 SCRIPT       : RVP ENTRY: sample=0 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.087 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.087 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.087 SCRIPT       : RVP ENTRY: sample=0 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.087 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.087 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=0 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=0 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=0 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=0 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=0 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=0 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=0 damageState=0 playerLoitering=0"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP PLAYCHECK: sample=0 nativeGetInAllowed=0 totalSeats=18 hostileToPlayer=0"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=19 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=19 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=19 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=19 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=19 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=19 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=19 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=19 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=19 damageState=0 playerLoitering=0"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP PLAYCHECK: sample=19 nativeGetInAllowed=0 totalSeats=4 hostileToPlayer=0"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=30 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=30 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=30 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=30 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=30 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=30 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=30 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=30 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=30 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=30 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=30 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=30 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=30 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=30 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=30 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=30 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=30 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=30 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=30 damageState=0 playerLoitering=0"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP PLAYCHECK: sample=30 nativeGetInAllowed=0 totalSeats=9 hostileToPlayer=0"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=120 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=120 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=120 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=120 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=120 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=120 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=120 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=120 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=120 blocked=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=120 blocked="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP ENTRY: sample=120 damageState=0 playerLoitering=0"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-30-09",
+    "line": "02:30:33.088 SCRIPT       : RVP PLAYCHECK: sample=120 nativeGetInAllowed=0 totalSeats=5 hostileToPlayer=0"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-32-05",
+    "line": "02:32:30.295  SCRIPT       : RVP ENEMY: built hostile target base at 2422.95 87.696 1413.61"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-32-05",
+    "line": "02:32:31.601  SCRIPT       : RVP BUILD: existing built world retained; terminal contexts updated; header=1"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-33-28",
+    "line": "02:33:47.521  SCRIPT       : RVP PLAYCHECK: entered game mode $ReforgerVehiclePlayground:Worlds/VehiclePlayground.ent"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-33-28",
+    "line": "02:33:48.750 SCRIPT       : RVP: 177 unique mounted catalog/fallback assets"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-33-28",
+    "line": "02:33:48.757 SCRIPT       : RVP: playground ready. Use the arsenal hub's playground action."
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-33-28",
+    "line": "02:33:51.261 SCRIPT       : RVP ENEMY: requested 30 hostile USSR infantry at <2422.95,87.696,1413.61>; respawn=1"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-33-28",
+    "line": "02:33:52.758 SCRIPT       : RVP PLAYCHECK: player=SCR_ChimeraCharacter<0x000001F6C3EE57B0> @\"ENTITY:4611686018427399881\" ('SCR_ChimeraCharacter','Assets/Characters/Basebody/Basebody_Male_01.xob') at <1193.909180 38.000000 2828.911377> @\"{3E18CC9634468249}Prefabs/Characters/Campaign/Final/BLUFOR/US_army/Regular/Campaign_US_Player_GL.et\" controllableCharacter=1 controller=1 bakedDisplayEntities=177"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-33-28",
+    "line": "02:33:52.758 SCRIPT       : RVP PLAYCHECK: player position 1193.91 38 2828.91"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-33-28",
+    "line": "02:33:52.777 SCRIPT       : RVP PLAYCHECK: native panel object=1"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-33-28",
+    "line": "02:33:52.778 SCRIPT       : RVP PLAYCHECK: panel closed; normal player input restored"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-33-28",
+    "line": "02:33:52.778 SCRIPT       : RVP PLAYCHECK: sample=0 position=<1114.95,38.149,2813.61> yawPitchRoll=<0,0,0>"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-33-28",
+    "line": "02:33:52.778 SCRIPT       : RVP PLAYCHECK: sample=19 position=<1452.94,38.8917,2839.66> yawPitchRoll=<-0.0560502,-1.16554,0.466586>"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-33-28",
+    "line": "02:33:52.778 SCRIPT       : RVP PLAYCHECK: sample=30 position=<1524.94,38.9698,2749.57> yawPitchRoll=<-0.0282335,1.20275,0.95657>"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-33-28",
+    "line": "02:33:52.779 SCRIPT       : RVP PLAYCHECK: sample=120 position=<868.964,40.1636,2807.62> yawPitchRoll=<0.0569987,-1.17938,-1.21898>"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-33-28",
+    "line": "02:33:53.776 SCRIPT       : RVP ENTRY: sample=0 allowed=1 door=0 reason="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-33-28",
+    "line": "02:33:58.791 SCRIPT       : RVP ENTRY: sample=0 normalActionEnteredVehicle=1"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-33-28",
+    "line": "02:34:01.272 SCRIPT       : RVP ENEMY: Enemy base: 30 alive / 30 target, enabled=1, respawn=1"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-33-28",
+    "line": "02:34:01.308 SCRIPT       : RVP ENTRY: sample=19 allowed=1 door=0 reason="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-33-28",
+    "line": "02:34:07.318 SCRIPT       : RVP ENTRY: sample=19 normalActionEnteredVehicle=1"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-33-28",
+    "line": "02:34:09.828 SCRIPT       : RVP ENTRY: sample=30 allowed=0 door=0 reason=#AR-UserAction_SeatObstructed"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-33-28",
+    "line": "02:34:12.279 SCRIPT       : RVP ENEMY: Enemy base: 30 alive / 30 target, enabled=1, respawn=1"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-33-28",
+    "line": "02:34:14.828 SCRIPT       : RVP ENTRY: sample=30 normalActionEnteredVehicle=1"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-33-28",
+    "line": "02:34:17.340 SCRIPT       : RVP ENTRY: sample=120 allowed=1 door=0 reason="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-33-28",
+    "line": "02:34:22.278 SCRIPT       : RVP ENEMY: Enemy base: 30 alive / 30 target, enabled=1, respawn=1"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-33-28",
+    "line": "02:34:22.350 SCRIPT       : RVP ENTRY: sample=120 normalActionEnteredVehicle=1"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-33-28",
+    "line": "02:34:23.864 SCRIPT       : RVP ENTRY: seat checks finished; player returned to hub"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-33-28",
+    "line": "02:34:32.282 SCRIPT       : RVP ENEMY: Enemy base: 30 alive / 30 target, enabled=1, respawn=1"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-33-28",
+    "line": "02:34:42.293 SCRIPT       : RVP ENEMY: Enemy base: 30 alive / 30 target, enabled=1, respawn=1"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-33-28",
+    "line": "02:34:52.308 SCRIPT       : RVP ENEMY: Enemy base: 30 alive / 30 target, enabled=1, respawn=1"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-33-28",
+    "line": "02:35:02.307 SCRIPT       : RVP ENEMY: Enemy base: 30 alive / 30 target, enabled=1, respawn=1"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-33-28",
+    "line": "02:35:12.305 SCRIPT       : RVP ENEMY: Enemy base: 30 alive / 30 target, enabled=1, respawn=1"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-47-02",
+    "line": "02:47:24.802  SCRIPT       : RVP BUILD: existing built world retained; terminal contexts updated; header=1"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:49:36.100  SCRIPT       : RVP PLAYCHECK: entered game mode $ReforgerVehiclePlayground:Worlds/VehiclePlayground.ent"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:49:37.591 SCRIPT       : RVP: 177 unique mounted catalog/fallback assets"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:49:37.595 SCRIPT       : RVP: playground ready. Use the arsenal hub's playground action."
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:49:40.064 SCRIPT       : RVP ENEMY: requested 30 hostile USSR infantry at <2422.95,87.696,1413.61>; respawn=1"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:49:41.561 SCRIPT       : RVP PLAYCHECK: player=SCR_ChimeraCharacter<0x000001BBBACA57B0> @\"ENTITY:4611686018427399881\" ('SCR_ChimeraCharacter','Assets/Characters/Basebody/Basebody_Male_01.xob') at <1196.088013 38.000000 2831.105957> @\"{3E18CC9634468249}Prefabs/Characters/Campaign/Final/BLUFOR/US_army/Regular/Campaign_US_Player_GL.et\" controllableCharacter=1 controller=1 bakedDisplayEntities=177"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:49:41.562 SCRIPT       : RVP PLAYCHECK: player position 1196.09 38 2831.11"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:49:41.576 SCRIPT       : RVP PLAYCHECK: native panel object=1"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:49:41.578 SCRIPT       : RVP PLAYCHECK: panel closed; normal player input restored"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:49:41.578 SCRIPT       : RVP PLAYCHECK: sample=0 position=<1114.95,38.149,2813.61> yawPitchRoll=<0,0,0>"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:49:41.579 SCRIPT       : RVP PLAYCHECK: sample=19 position=<1452.94,38.8917,2839.66> yawPitchRoll=<-0.0559795,-1.16533,0.466672>"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:49:41.579 SCRIPT       : RVP PLAYCHECK: sample=30 position=<1524.94,38.9698,2749.57> yawPitchRoll=<-0.0283022,1.19951,0.956608>"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:49:41.579 SCRIPT       : RVP PLAYCHECK: sample=120 position=<868.964,40.1636,2807.62> yawPitchRoll=<0.0571551,-1.17952,-1.219>"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:49:42.570 SCRIPT       : RVP ENTRY: sample=0 allowed=1 door=0 reason="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:49:47.578 SCRIPT       : RVP ENTRY: sample=0 normalActionEnteredVehicle=1"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:49:47.578 SCRIPT       : RVP SERVICE CHECK: occupied reset=Skipped occupied vehicle."
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:49:49.577 SCRIPT       : RVP ENEMY CHECK: removed one owned squad; Enemy base: 25 alive / 30 target, enabled=1, respawn=1"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:49:50.068 SCRIPT       : RVP ENEMY: Enemy base: 25 alive / 30 target, enabled=1, respawn=1"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:49:50.105 SCRIPT       : RVP ENTRY: sample=19 allowed=1 door=0 reason="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:49:55.110 SCRIPT       : RVP ENTRY: sample=19 normalActionEnteredVehicle=1"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:49:55.110 SCRIPT       : RVP SERVICE CHECK: occupied reset=Skipped occupied vehicle."
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:50:00.071 SCRIPT       : RVP ENEMY: Enemy base: 25 alive / 30 target, enabled=1, respawn=1"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:50:02.629 SCRIPT       : RVP ENTRY: sample=30 allowed=1 door=0 reason="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:50:08.020 SCRIPT       : RVP ENTRY: sample=30 normalActionEnteredVehicle=1"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:50:08.020 SCRIPT       : RVP SERVICE CHECK: occupied reset=Skipped occupied vehicle."
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:50:15.539 SCRIPT       : RVP ENTRY: sample=120 allowed=1 door=0 reason="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:50:20.542 SCRIPT       : RVP ENTRY: sample=120 normalActionEnteredVehicle=1"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:50:20.543 SCRIPT       : RVP SERVICE CHECK: occupied reset=Skipped occupied vehicle."
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:50:23.054 SCRIPT       : RVP ENTRY: sample=171 allowed=1 door=0 reason="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:50:28.060 SCRIPT       : RVP ENTRY: sample=171 normalActionEnteredVehicle=1"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:50:28.060 SCRIPT       : RVP SERVICE CHECK: occupied reset=Skipped occupied vehicle."
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:50:30.561 SCRIPT       : RVP ENTRY: sample=176 allowed=1 door=0 reason="
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:50:35.571 SCRIPT       : RVP ENTRY: sample=176 normalActionEnteredVehicle=1"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:50:35.571 SCRIPT       : RVP SERVICE CHECK: occupied reset=Skipped occupied vehicle."
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:50:37.078 SCRIPT       : RVP ENTRY: seat checks finished; player returned to hub"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:50:37.078 SCRIPT       : RVP SERVICE CHECK: UAZ fuel restored to maximum=1"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:50:37.083 SCRIPT       : RVP SERVICE CHECK: UAZ unoccupied replacement=Replaced with normal undamaged prefab/loadout."
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:50:40.500 SCRIPT       : RVP ENEMY: Enemy base: 25 alive / 30 target, enabled=1, respawn=1"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:51:40.533 SCRIPT       : RVP ENEMY: Enemy base: 25 alive / 30 target, enabled=1, respawn=1"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-49-14",
+    "line": "02:52:14.958 SCRIPT       : RVP ENEMY CHECK: after 145 seconds, Enemy base: 30 alive / 30 target, enabled=1, respawn=1"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-53-55",
+    "line": "02:54:16.602  SCRIPT       : RVP BUILD: 36 compatible mortar shell/charge items placed at the range"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-53-55",
+    "line": "02:54:17.927  SCRIPT       : RVP BUILD: existing built world retained; terminal contexts updated; header=1"
+  },
+  {
+    "profile": "project-profile",
+    "log": "logs_2026-10-30_02-57-21",
+    "line": "02:57:41.891  SCRIPT       : RVP BUILD: existing built world retained; terminal contexts updated; header=1"
+  },
+  {
+    "profile": "profile-Artillery",
+    "log": "logs_2026-10-30_02-21-37",
+    "line": "02:21:49.986  SCRIPT       : RVP INTEGRATION: 4 assets; 4 editor placed; overlay saved"
+  },
+  {
+    "profile": "profile-Artillery",
+    "log": "logs_2026-10-30_02-26-27",
+    "line": "02:27:16.411  SCRIPT       : RVP INTEGRATION: existing overlay preserved, supply update complete"
+  },
+  {
+    "profile": "profile-RHS",
+    "log": "logs_2026-10-30_02-35-23",
+    "line": "02:35:40.591  SCRIPT       : RVP INTEGRATION: 94 assets; 20 editor placed; overlay saved"
+  },
+  {
+    "profile": "profile-WCS",
+    "log": "logs_2026-10-30_02-36-08",
+    "line": "02:36:30.936  SCRIPT       : RVP INTEGRATION: 407 assets; 20 editor placed; overlay saved"
+  },
+  {
+    "profile": "profile-WCS",
+    "log": "logs_2026-10-30_02-38-38",
+    "line": "02:41:33.159  SCRIPT       : RVP INTEGRATION: 411 assets; 24 editor placed; overlay saved"
+  },
+  {
+    "profile": "profile-WCS",
+    "log": "logs_2026-10-30_02-47-40",
+    "line": "02:47:57.073  SCRIPT       : RVP INTEGRATION: existing overlay preserved, supply update complete"
+  },
+  {
+    "profile": "game-Core",
+    "log": "logs_2026-10-30_02-55-03",
+    "line": "02:55:46.425 SCRIPT       : RVP: 177 unique mounted catalog/fallback assets"
+  },
+  {
+    "profile": "game-Core",
+    "log": "logs_2026-10-30_02-55-03",
+    "line": "02:55:46.428 SCRIPT       : RVP: playground ready. Use the arsenal hub's playground action."
+  },
+  {
+    "profile": "game-Core",
+    "log": "logs_2026-10-30_02-55-03",
+    "line": "02:55:48.862 SCRIPT       : RVP ENEMY: requested 30 hostile USSR infantry at <2422.95,87.696,1413.61>; respawn=1"
+  },
+  {
+    "profile": "game-Core",
+    "log": "logs_2026-10-30_02-55-03",
+    "line": "02:55:58.911 SCRIPT       : RVP ENEMY: Enemy base: 30 alive / 30 target, enabled=1, respawn=1"
+  },
+  {
+    "profile": "game-Core",
+    "log": "logs_2026-10-30_02-55-03",
+    "line": "02:56:08.908 SCRIPT       : RVP ENEMY: Enemy base: 30 alive / 30 target, enabled=1, respawn=1"
+  },
+  {
+    "profile": "game-Core",
+    "log": "logs_2026-10-30_02-55-03",
+    "line": "02:56:49.002 SCRIPT       : RVP ENEMY: Enemy base: 30 alive / 30 target, enabled=1, respawn=1"
+  },
+  {
+    "profile": "game-WCS",
+    "log": "logs_2026-10-30_02-58-08",
+    "line": "02:58:30.609 SCRIPT       : RVP: 460 unique mounted catalog/fallback assets"
+  },
+  {
+    "profile": "game-WCS",
+    "log": "logs_2026-10-30_02-58-08",
+    "line": "02:58:30.610 SCRIPT       : RVP: playground ready. Use the arsenal hub's playground action."
+  },
+  {
+    "profile": "game-WCS",
+    "log": "logs_2026-10-30_02-58-08",
+    "line": "02:58:32.961 SCRIPT       : RVP INTEGRATION: 411 assets registered; 24 physically placed; remaining entries available at clear pads through the panel."
+  },
+  {
+    "profile": "game-WCS",
+    "log": "logs_2026-10-30_02-58-08",
+    "line": "02:58:33.677 SCRIPT       : RVP ENEMY: requested 30 hostile USSR infantry at <2422.95,87.696,1413.61>; respawn=1"
+  },
+  {
+    "profile": "game-WCS",
+    "log": "logs_2026-10-30_02-58-08",
+    "line": "02:58:43.983 SCRIPT       : RVP ENEMY: Enemy base: 30 alive / 30 target, enabled=1, respawn=1"
+  },
+  {
+    "profile": "game-WCS",
+    "log": "logs_2026-10-30_02-58-08",
+    "line": "02:58:55.684 SCRIPT       : RVP ENEMY: Enemy base: 30 alive / 30 target, enabled=1, respawn=1"
+  },
+  {
+    "profile": "game-WCS",
+    "log": "logs_2026-10-30_02-58-08",
+    "line": "02:59:35.801 SCRIPT       : RVP ENEMY: Enemy base: 30 alive / 30 target, enabled=1, respawn=1"
+  },
+  {
+    "profile": "game-WCS",
+    "log": "logs_2026-10-30_02-58-08",
+    "line": "03:00:36.278 SCRIPT       : RVP ENEMY: Enemy base: 30 alive / 30 target, enabled=1, respawn=1"
+  }
+]

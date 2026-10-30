@@ -1,0 +1,103 @@
+RVP_IntegrationEntity RVP_IntegrationContent {
+ coords 1196.954 38.12 2831.606
+ m_aAssets {
+  "{0B292958C9B6F466}Prefabs/Vehicles/Wheeled/Wheeled_2A36.et"
+  "{5DBC14179A0C516E}Prefabs/Vehicles/Wheeled/Wheeled_M777.et"
+  "{7D3145969702F311}Prefabs/Howitzer/Howitzer_2A36.et"
+  "{CDA65963893623B0}Prefabs/Howitzer/Howitzer_M777A2.et"
+ }
+}
+$grp GenericEntity : "{01FC57D390134BC6}Prefabs/Weapons/Ammo/Attach_US_ramrod.et" {
+ RVP_ArtilleryAmmo_16 {
+  coords 2180.95 52.315 2747.61
+ }
+ RVP_ArtilleryAmmo_17 {
+  coords 2180.95 52.299 2749.61
+ }
+ RVP_ArtilleryAmmo_18 {
+  coords 2180.95 52.29 2751.61
+ }
+ RVP_ArtilleryAmmo_19 {
+  coords 2180.95 52.284 2753.61
+ }
+}
+Vehicle RVP_ModDisplay_0 : "{0B292958C9B6F466}Prefabs/Vehicles/Wheeled/Wheeled_2A36.et" {
+ coords 1246.95 37.873 2825.61
+}
+$grp Projectile : "{0F13AF0498D8A8E2}Prefabs/Weapons/Ammo/Ammo_Powder_152mm_4zh47(Full).et" {
+ RVP_ArtilleryAmmo_4 {
+  coords 2174.95 52.102 2747.61
+  angles 0 0 0
+ }
+ RVP_ArtilleryAmmo_5 {
+  coords 2174.95 52.102 2749.61
+  angles 0 0 0
+ }
+ RVP_ArtilleryAmmo_6 {
+  coords 2174.95 52.102 2751.61
+  angles 0 0 0
+ }
+ RVP_ArtilleryAmmo_7 {
+  coords 2174.95 52.102 2753.61
+  angles 0 0 0
+ }
+}
+$grp Projectile : "{44611B4465BF4D24}Prefabs/Weapons/Ammo/Ammo_Shell_152mm_HE_OF29.et" {
+ RVP_ArtilleryAmmo_0 {
+  coords 2172.95 51.993 2747.61
+ }
+ RVP_ArtilleryAmmo_1 {
+  coords 2172.95 51.993 2749.61
+ }
+ RVP_ArtilleryAmmo_2 {
+  coords 2172.95 51.993 2751.61
+ }
+ RVP_ArtilleryAmmo_3 {
+  coords 2172.95 52.009 2753.61
+ }
+}
+Vehicle RVP_ModDisplay_1 : "{5DBC14179A0C516E}Prefabs/Vehicles/Wheeled/Wheeled_M777.et" {
+ coords 1246.95 37.934 2807.61
+}
+$grp Projectile : "{5E1C49E2DFCDBE8F}Prefabs/Weapons/Ammo/Ammo_Shell_155mm_HE_M107.et" {
+ RVP_ArtilleryAmmo_8 {
+  coords 2176.95 52.186 2747.61
+  angles 0 0 0
+ }
+ RVP_ArtilleryAmmo_9 {
+  coords 2176.95 52.179 2749.61
+  angles 0 0 0
+ }
+ RVP_ArtilleryAmmo_10 {
+  coords 2176.95 52.179 2751.61
+  angles 0 0 0
+ }
+ RVP_ArtilleryAmmo_11 {
+  coords 2176.95 52.179 2753.61
+  angles 0 0 0
+ }
+}
+Turret RVP_ModDisplay_2 : "{7D3145969702F311}Prefabs/Howitzer/Howitzer_2A36.et" {
+ coords 2180.95 52.446 2765.61
+}
+$grp Projectile : "{AE7224BA7129A097}Prefabs/Weapons/Ammo/Ammo_Powder_155mm_M231.et" {
+ RVP_ArtilleryAmmo_12 {
+  coords 2178.95 52.289 2747.61
+  angles 0 0 0
+ }
+ RVP_ArtilleryAmmo_13 {
+  coords 2178.95 52.28 2749.61
+  angles 0 0 0
+ }
+ RVP_ArtilleryAmmo_14 {
+  coords 2178.95 52.274 2751.61
+  angles 0 0 0
+ }
+ RVP_ArtilleryAmmo_15 {
+  coords 2178.95 52.274 2753.61
+  angles 0 0 0
+ }
+}
+Turret RVP_ModDisplay_3 : "{CDA65963893623B0}Prefabs/Howitzer/Howitzer_M777A2.et" {
+ coords 2144.95 51.38 2711.61
+}

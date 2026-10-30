@@ -1,0 +1,5 @@
+resource	category	status	position
+{0B292958C9B6F466}Prefabs/Vehicles/Wheeled/Wheeled_2A36.et	Ground	EDITOR_PLACED	1246.95 38.0073 2825.61
+{5DBC14179A0C516E}Prefabs/Vehicles/Wheeled/Wheeled_M777.et	Ground	EDITOR_PLACED	1246.95 38.1262 2807.61
+{7D3145969702F311}Prefabs/Howitzer/Howitzer_2A36.et	Weapons	EDITOR_PLACED	2180.95 52.3148 2765.61
+{CDA65963893623B0}Prefabs/Howitzer/Howitzer_M777A2.et	Weapons	EDITOR_PLACED	2144.95 51.2457 2711.61

@@ -1,0 +1,9 @@
+GameProject {
+ ID "RVP_Artillery"
+ GUID "6ABC14DDEE4633AB"
+ TITLE "Vehicle Playground - CIE Artillery"
+ Dependencies {
+  "6ABC0DB9EF3BFB81"
+  "66AED3293C6DD44E"
+ }
+}

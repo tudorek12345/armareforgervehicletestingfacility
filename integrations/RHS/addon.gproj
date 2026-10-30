@@ -1,0 +1,9 @@
+GameProject {
+ ID "RVP_RHS"
+ GUID "6ABC14DDEE4667AC"
+ TITLE "Vehicle Playground - RHS Vehicles"
+ Dependencies {
+  "6ABC0DB9EF3BFB81"
+  "595F2BF2F44836FB"
+ }
+}
